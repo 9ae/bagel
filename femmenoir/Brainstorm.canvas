@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"8c4eb63b869d67c2","type":"text","text":"How Diane & Elanor meet?","x":-430,"y":-215,"width":250,"height":60,"color":"4"},
+		{"id":"d8b90b1d31857c82","type":"text","text":"As strangers","x":-540,"y":-80,"width":144,"height":60},
+		{"id":"b0c249fa31ab320f","type":"text","text":"Knowing","x":-240,"y":-80,"width":120,"height":60},
+		{"id":"d8f10e1d4ff38cbd","type":"text","text":"Elanor seeks Diane","x":40,"y":-215,"width":202,"height":54},
+		{"id":"a57e582db0471852","type":"text","text":"Bump into eachother","x":40,"y":-80,"width":220,"height":60},
+		{"id":"9ee7730578f66f45","type":"text","text":"Diane seeks Elanor","x":48,"y":60,"width":194,"height":60,"color":"1"},
+		{"id":"130a9f093c16c464","type":"text","text":"Under what conditions will Diane find Elanor?","x":220,"y":180,"width":250,"height":60},
+		{"id":"87fea47a100346d3","x":547,"y":110,"width":153,"height":60,"type":"text","text":"Diane is preg"},
+		{"id":"3f761c688bb27b24","x":552,"y":197,"width":250,"height":143,"type":"text","text":"Diane finds out she's the other women, and feels telling the wife is the right thing to do."},
+		{"id":"34ca0c751562e809","x":552,"y":380,"width":250,"height":60,"type":"text","text":"Accident, she's curious who Elanor is"},
+		{"id":"2d10a16ca35b08fb","x":552,"y":520,"width":250,"height":103,"type":"text","text":"Can plan an accidental encounter, but Elanor doesn't know."}
+	],
+	"edges":[
+		{"id":"07b6e0efddfcd5e0","fromNode":"8c4eb63b869d67c2","fromSide":"bottom","toNode":"b0c249fa31ab320f","toSide":"top"},
+		{"id":"8a98a610378d83d2","fromNode":"b0c249fa31ab320f","fromSide":"right","toNode":"d8f10e1d4ff38cbd","toSide":"left"},
+		{"id":"67e7e62076ddfcfb","fromNode":"8c4eb63b869d67c2","fromSide":"bottom","toNode":"d8b90b1d31857c82","toSide":"top"},
+		{"id":"7e788d5535192672","fromNode":"b0c249fa31ab320f","fromSide":"right","toNode":"a57e582db0471852","toSide":"left"},
+		{"id":"9968d0b6ff0aaf35","fromNode":"b0c249fa31ab320f","fromSide":"right","toNode":"9ee7730578f66f45","toSide":"left"},
+		{"id":"14df5513a4f575ce","fromNode":"9ee7730578f66f45","fromSide":"bottom","toNode":"130a9f093c16c464","toSide":"left"},
+		{"id":"9b8b9c6f4082c9c5","fromNode":"130a9f093c16c464","fromSide":"right","toNode":"87fea47a100346d3","toSide":"left"},
+		{"id":"b28c443bf968b1e6","fromNode":"130a9f093c16c464","fromSide":"right","toNode":"3f761c688bb27b24","toSide":"left"},
+		{"id":"16c355c22bdfe0b1","fromNode":"130a9f093c16c464","fromSide":"right","toNode":"34ca0c751562e809","toSide":"left"},
+		{"id":"d143a5d20ea84a67","fromNode":"34ca0c751562e809","fromSide":"bottom","toNode":"2d10a16ca35b08fb","toSide":"top"},
+		{"id":"4c5ddb6a3cbf20c4","fromNode":"2d10a16ca35b08fb","fromSide":"left","toNode":"d8b90b1d31857c82","toSide":"bottom"}
+	]
+}

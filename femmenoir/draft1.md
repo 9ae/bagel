@@ -1,866 +1,584 @@
-# Draft 1
 
-> What ifs:
-- Kai as narrator
-- Ken is missing instead of dead
-- Elanor & Diane meet when they were both tailing him
-- What if they first meet eachother when they don’t know who the other person ish
-- Set the entire story as a flashback, and only have current at start, intermission, and end
-> 
+---
 
-# Int. Kai interviews Elanor
+# Edit Notes
+
+- [ ] Move intermission scene to earlier
+- [ ] Turn the first half into film style w/ flashbacks
+- [ ] Change the point when Elanor realizes Ken's having an affair, where she shares a feeling that Diane have. Their voice overs from talking to Kai. They both have arrived at the same feel, and say it at the same time (camera points to just Kai's expression)
+
+
+We think it's Elanor the whole time, but turns out they both conspired together.
+Diane brought Ken to the street where Elanor drove the car.
+
+Car used: coupe deville, black convertable cadillac
+
+# Theme
+Both Elanor and Diane feel invisible in their relationship. They feel resentment
+
+> The polices ruled it as a suicide, but Ken's sister (Kisaki) thinks otherwise, thus hired Ramos to investigate.
+
+## Deconstruct tropes
+femme fatale => hopeless romantic
+damsel in distress => the practical woman
+
+# S 1: morning Elanor
+
+> Est she's his wife
+Elanor plays the part of a grieving widow well
+ends with she reveals he knows he a mistress
 
 *In a room with no windows sits an KAI and ELANOR. There's a half empty box of tissues and by it a trash can filled with them.*
 
-[https://www.notion.so](https://www.notion.so)
+Kai: So Thursday night was the last time you saw Kenji Ishida?
 
-ELLA crying across front table
+Elanor: *sniffs and nods* Yes. After our fight, he stormed out. *cries again* I wish those weren't our last words.
 
-KAI
+Kai: What he say anything when he left?
 
-So last Thursday was the last time you saw Kenji Ishida?
+Elanor: Nothing *sniff sniff*  When he's angry, he just shuts down. He becomes a statue, it's impossible to get through to him, he won't even look at you.
 
-ELLA
+Kai: What do you do then?
 
-Yes. After our fight, he stormed out. 
+Elanor: What can I do?! *yells back* 
 
-`Elanor sniffles`
+Kai: *startled by Elanor's response*
 
----
+Elanor: It feels no matter what I do, no matter how hard I try. Our marriage is bonded to sail off the end of the earth.
 
-[https://www.notion.so](https://www.notion.so)
+Kai: Why do you say that?
 
-ELLA looks down and plays with the laces on her dress
+Elanor: *cries, hiccups*. We've been struggling for a long time. *blows noses into tissue* It isn't suppose to be like this! When we first met, we were so right for each other. And in this vast world, we've found each other.
 
-KAI
+Kai: When do you two meet?
 
-Did he say where he was going?
+Elanor: Junior year...
 
-ELLA
+Kai: So yo met in college?
 
-No. When he's angry, he just shuts down. He becomes a statue, it's impossible to get through to him, when he won't even look at you.
+Elanor: Highschool, we were each other's first... *paused* first and only.... *looks sternly at the table and grips into her tissue hard*
 
----
+Kai: *pushes a cup to tea towards Elanor* take your time. And you guys have been together since then?
 
-[https://www.notion.so](https://www.notion.so)
+Elanor: *nods* We got married, straight after college. My parents loved him, and in their mind why wait. When you've found the one, that's it. 
 
-KAI
+Kai: Did you think he was the one?
 
-Do you guys fight often?
+Elanor: *long pause* I used to think... that I was so lucky. That the guy I liked, liked me back. I mean isn't that rare? Normally crushes are one sided. I saw all my friends in high school get their hearts broken so many times. But lately, I've been wondering if I've been missing out on life because we got lucky.
 
-ELLA
+Kai: Why have you been wondering?
 
-Never! `assertively`
+Elanor: Ken, though all these years he just kept on changing. Maybe it's because I'm an elementary school teacher, but I essentially feel like the same person year after year. And I feel that he just left me behind. He couldn't even wait for me, he had to die first.
 
-ELLA (cont.)
+Kai: Regarding that, do you think he's planned it?
 
-Not until recently
+Elanor: What do you mean? He killed himself, how could he have not planned it?!
 
-KAI
+Kai: Yes, the police ruled it as a suicide. There was a note, and __blank__ is a common method of death one can self administer. But his sister thinks otherwise. That's why I am talking to you today, to get a better understanding of the circumstances of your late husband's life.
 
-What have you been fighting about?
+Elanor: Kisaki has always had it out for me. At the funeral, she directly accused me. In front of the whole family.
 
-ELLA
+Kai: What did she say?
 
-I mean it’s nothing. We are just trying to figured ourselves out. We got married so young. I think we both sometimes wonder what our lives would be like if we hadn’t.
+Elanor:  *burst out into tears again* That I poisoned him out of jealousy, when I found out about his affair.
 
-KAI
+> Elanor doesn't come out straight to say it straight, it is revealed.
+> Kai knew about Diane
 
-Do you sometimes wish you aren’t in each others lives.
+# S 2: noon Diane
+> Mentions lunch form Press
+Starts to hint that Diane knows Elanor
+We see that Diane was really in love with someone (with whom, it's never clarified).
+We are starting suspect Diane too, because she talks about feeling resentment about the situation
 
-ELLA
+*Diane sits cross legged with one of her legs swinging. She is fully dressed in black. On the table is a hat with a mesh vail. Kai enters the room with a brown bag.*
 
-No, it’s not like that! We are trying to work things out.
+Kai: Sure you're not hungry? *takes a panini sandwich out of the bag* 
 
-Ella starts to tearing up again, and through sobs say
+Diane: *wrinkles her nose and eyes the sandwich* No, I'm fine.
 
-ELLA
+Kai: *raises half of the sandwich as if to toast, and her eyebrows* Next time, you're in the neighborhood. You gotta try Press, best panini shop in Queens.
 
-But it feels no matter how hard I try to fix us, his heart has sailed.
+Diane: I don't frequent this area often, but thank you. I'm sure you didn't have me come this far out for lunch.
 
-Ella leans into Kai’s shoulders. Kai awkwardly pats her shoulders.
+Kai: Right, *opens their laptop*  Can you tell me about, how you've come to know Kenji Ishida?
 
----
+Diane: Our companies shared and office space. *sighs, she closes her eyes. A silent moment passes*
 
-[https://www.notion.so](https://www.notion.so)
+*In the silhouette  screen a female figure appears*
 
-KAI
+Diane: *finally opens her eyes, her gaze is far away. Almost excitedly she smiles,* I remember that morning, I went to the pantry to get a much needed coffee. Ken was doing push up on the floor, and without realizing my heel landed on his hand.
 
-I’m sure once we find him, you guys can work it out.
+*Shadows: Diane falls as Ken flinches from the pain. She rushes to apologize, Ken laughs and motions he's fine. She laughs too.*
 
-ELLA
+Diane: He kept on saying he was fine, just anxious about the investor meeting today. He even noticed my eyes were puffy and asked if I was ok. I said, 'just another first date fail, you know how it is on the apps'. He said he's never been on the apps, then started asking me about what they are like. And boy did I have a library of horror stories to tell.
 
-He’s gone! How do I do that?!
+Kai: I'm sorry, my friends tell me guys on the apps are the worst.
 
----
+Diane:  It's not just guys *raises her eyes at Kai, and leans toward on desk*
 
-[https://www.notion.so](https://www.notion.so)
+Kai: Oh. *uncertain if Diane is trying to hit on them*
 
-KAI
+Diane: *pulls back towards her set, and returns to a normal tone* Kind of to think about it, women have ghosted me more.
 
-Do you know where he could have gone? Family or friends the could have stayed with?
+> How Diane feel for Ken. She thought his relation was on the verge of ending
 
-ELLA
+Kai: So from that day, you and Ken...
 
-Well considering it was his sister who hired you, his family hasn’t seem him either. And he doesn’t really have friends, he’s lost touch with most of them since graduation.
+Diane: It was innocent at first, we were just pals. We mostly ate lunch together in the courtyard. Talked about the insanity that went on in our start ups. He wanted to hear about my dating life. I don't know why anyone would, it's pretty sad. *looks down* connecting to people is so hard, maybe it's just me. But talking to Ken, just feels so easy.
 
----
+Kai: Did you have feelings for him then?
 
-[https://www.notion.so](https://www.notion.so)
+Diane: I don't know, maybe? When we first met in the pantry, I felt my heart flutter a bit. But it could have just been the situation. A clumsy meet cute, felt almost like we were in a rom-com. I guess something like that is hard to feel with someone you meet on the apps. Life has no happy accidents anymore. There's no magic.
 
-KAI
+Kai: And you want magic?
 
-It’s hard to believe he doesn’t have any friends.
+Diane: I want.... a good story.
 
-ELLA
+Kai: So what is this story? He listened to your stories...
 
-Most guys don’t these days.
+Diane: I think he liked them because he was living vicariously through me. He later opened up to tell me his own marriage was in shambles. And that his wife is about to leave him.
 
-KAI
+*Shadow: Ken pulls Diane closer, almost as if about to kiss her*
 
-What about Diane Sun from his office?
+Diane: Only that was a lie. Elanor had no such intention back then.
 
----
+*Shadow: Diane pushes Ken away*
 
-[https://www.notion.so](https://www.notion.so)
+Kai: How did you know that?
 
-ELLA looks up in shock
+Diane: Elanor came to see me.
 
----
+# S 3: evening Elanor
 
-# Int. Interview room in Kai’s office
+*Elanor is back, same outfit as before but this time she has a silk shaw*
 
-[https://www.notion.so](https://www.notion.so)
 
-`Diane sits cross legged with one of her legs swinging. She is fully dressed in black. On the table is a hat with a mesh vail.`
+```
+Shows how Elanor was feeling about the whole situation
+Kai finally catches Elanor in a lie. Seems like we have the killer. Elanor is wearing a silk shaw.
+```
 
----
+Elanor: She was not the woman, I'd expected.
 
-[https://www.notion.so](https://www.notion.so)
+Kai: What had you expected?
 
-*`Kai enters the room with a brown bag`*
+Elanor: I didn't expect the other woman to be someone rather awkward; she looked so normal, fuzzy sweater and hippo slippers. 
 
-KAI
+Kai: People always expects the mistress to be a beautiful seductress, but most of the time she's just a woman desperate to be loved.
 
-Sure you're not hungry? 
+Elanor: *sighs and softens her eyes*, yea, Diane... is the type to open her heart to just about anyone. *lost in a daze*
 
-`KAI takes a panini sandwich out of the bag.`
+# S 4: Diane
 
----
+Kai: Did you know who she was?
 
-[https://www.notion.so](https://www.notion.so)
+Diane: No, at first I though she was some bible peddler. They still do that you know? Go from door to door. She looked at me up and down.
 
-*DIANE wrinkles her nose and eyes the sandwich*
+*Shadows: Elanor steps forward and closes in on Diane, she puts her nose towards Diane's neck.*
 
-DIANE
+Diane: Then she said "why do I smell my husband's aftershave on you?" And I can tell it wasn't a question. *her face started to turn red* It all came crumbling in. *hiccup* The reality of what I thought was my romance. *hiccup* all this time his wife felt like an abstract concept, but there she was right in front of me. If she were to physically hurt me, right then and there. I would have let her.
 
-No, I'm fine.
+Kai: Did she?
 
----
+Diane: *started to gather herself a bit* No, she...
 
-[https://www.notion.so](https://www.notion.so)
+# S 5: Elanor
 
-KAI *raises half of the sandwich as if to toast.*
+Elanor: I lost it and broke down crying at her doorstep that afternoon. She invited me in, a stranger, who had every reason to hurt her. She drew up a warm face towel, and brewed tea.
 
-KAI
+*Shadow Diane pulls shadow Elanor into a dance, they begin a slow mirrored choreography*
 
-Next time, you're in the neighborhood. You gotta try Press, best panini shop in Queens.
+Elanor: Apparently, Ken told her that I was planning on leaving him.
 
-DIANE
+Kai: Were you?
 
-I don't frequent this area often, but thank you. I'm sure you didn't have me come this far out for lunch.
+Elanor: No! At least not back then.
 
----
+*Focuses on the shadows of Elanor and Diane in a dance, as they speak*
 
-[https://www.notion.so](https://www.notion.so)
+Elanor: I sometimes wonder how my life would have turned out, if Ken and I didn't get married so young.
 
-KAI
+Diane: You two were lucky, the rest of us out there are trying to find the one in an ocean of a endless choices. It's the endless choices that makes commitment hard.
 
-Right, can you tell me when was the last time you saw Ken Ishida?
+- [ ] replace seen that was taken out to Alley Pond Park. Probably about bonding over how they've been feeling about their respective relationships
 
-DIANE
+`Elanor confronts Ken`
 
-Ken?! I… I haven’t seen him a while. Maybe a few weeks ago?
+Kai: So Diane confirmed your suspicious...
 
-We share workspace, but we aren’t in same company.
+Elanor: *nods* that night I told Ken, that I knew everything.
 
----
+Kai: Did he try to deny it?
 
-# Int. Co-working space pantry
+Elanor: No, *smiles* he got on his knees and begged me to forgive him.
 
-[https://www.notion.so](https://www.notion.so)
+Kai: Forgiveness is yours to give, not for him to ask for.
 
-Diane walks into the pantry
+Elanor: There was a part of me that wanted to use this as an excuse to get a divorce. But he's the only love I've never known, so maybe it's worth a fight. He even agree to see counseling together.
 
-[https://www.notion.so](https://www.notion.so)
+Kai: Uh no, not the one next door? She's a quack, just skip the formalities and go see the one in the basement if you really want to fix your marriage.
 
-Ken doing push-up on the floor
+Elanor: If only we knew that sooner... so we really tried to work things out. I told him to never see Diane again.
 
-DIANE (VO)
+# S 6: Diane
 
-I remember he used to do push-ups in the kitchen
+Diane: That night Ken called me four times. The first three times, I let it go to voicemail. I knew what was coming.
 
-`Diane’s eyes softens as she recalls how they met`
+Kai:  Why did you finally answer.
 
----
+Diane: I guess I wanted closure. Even if I knew why, I still needed to hear the words from him.
+*holds the veil on her hat over her eyes* he said he wanted to give me back my things.
 
-[https://www.notion.so](https://www.notion.so)
+# S 7: Elanor
 
-`DIANE‘S heel sinks into Ken’s hands`
+Shadow Elanor: *looks over a Pucca & Garu dufflel bag* So that's everything?
 
-DIANE (VO)
+Shadow Kens: *nods and walks off stage*
 
-We saw each other around for months, but we didn’t talk until that morning. He was nervous about an investor meeting, so he was trying to calm himself down with push ups.
+Elanor: After I give her back her things, I thought "great this woman will be out of our lives."
 
----
+Shadow Elanor pulls out a silk the bag slowly
 
-[https://www.notion.so](https://www.notion.so)
+Elanor:  I couldn't help to wonder what Ken saw in Diane.
 
-`she loses balance and falls while Ken yelps in pain`
+Shadow Elanor puts the scarf on herself, and twirls around in front of the mirror.
 
-DIANE (VO)
+Elanor: What he did with Diane.... *close her eyes*
 
-It was like a clumsy meet-cute, straight out of a rom-com.
+Shadow Elanor summons a Shadow Ken from the ground, they dance intimately.
 
-KAI (VO)
+Elanor: How he'll touch her
 
-Rom-coms, eh? What’s your favorite?
+Shadow Ken pulls Shadow Elanor close, their shadows combine. When they part it is Shadow Diane and Shadow Ken, Shadow Elanor is in the middle.
 
-DIANE (VO)
-
-What does that have to do with anything?!
-
----
-
-# Interview room
-
-[https://www.notion.so](https://www.notion.so)
-
-Diane & Ken sitting in the atrium
-
-After a pause
-
-KAI
-
-Did you know he was married?
-
-DIANE
-
-Not until one day, I got up early to make us both lunch. But it turns out that his wife had sent him off with lunch that day too.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-KAI
-
-Sound like you fallen hard by then.
-
-DIANE
-
-I should have known. Good things don’t happen. At least not to me.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Diane leaving Ken a bar
-
-DIANE (VO)
-
-I was going to let go, like I had so many times.
-
-If there’s something Diane Sun is good at it’s getting over someone, had to to it so many times. I got a whole routine worked out and everything.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Ken pulls Diane back by her wrist and kisses her.
-
-DIANE (VO)
-
-But then he started telling me about his marriage. How he still felt alone, even with someone to lie next to every night.
-
-He thinks she’s planning to leave him.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-montage of Diane and Ken’s moments
-
-DIANE (VO)
-
-And I started to wonder, what if he’s the one?
-
-The situation is far from perfect, but maybe that’s it.
-
-I had been long waiting for that picture book romance.
-
-But life is cruel, and it tests you. Maybe I just need to be patient.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-KAI
-
-These situations never end well for anyone involved, you know that right?
-
-DIANE
-
-`sly smiles` yea, I guess you are right.
-
-KAI
-
-You said you haven’t seen him in a while. I guess that means you guys ended things?
-
-DIANE
-
-When I met Ella
-
-KAI
-
-`about start another question`
-
-DIANE
-
-`quickly continues` Elanor Moon, this wife.
-
----
-
-# Int. Interview room Elanor
-
-> How she came to know about the affair
-
-ELANOR
-We no longer talked like we used to in high school, when we first got to know each other. I guess after all these years we assumed we know all there’s to know about eachother.
-> 
-
-[https://www.notion.so](https://www.notion.so)
-
-ELANOR
-
-She was not the woman, I'd expected.
-
-KAI
-
-What had you expected?
-
-ELANOR
-
-I didn't expect the other woman to be someone rather awkward; she looked so normal.
-
-KAI
-
-People always expects the mistress to be a beautiful seductress, but most of the time she's just a woman desperate to be loved.
-
-ELANOR
-
-`sighs and softens her eyes,` yea, Diane... is the type to open her heart to just about anyone. `lost in a daze`
-
----
-
-# Flashback Elanor & Diane
-
-[https://www.notion.so](https://www.notion.so)
-
-ELANOR
-
-Why do I smell my husband’s aftershave on you?
-
-DIANE (VO)
-
-There she stood, the reality of what I thought was my love story. All this time his wife felt like an abstract concept, but there she was right in front of me. If she were to physically hurt me, right then and there. I would have let her.
-
-KAI (VO)
-
-Did she?
-
-DIANE (VO)
-
-No, she….
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Elanor starts crying
-
-ELANOR (VO)
-
-I don’t know what came over me. I ran over in my mind so many times, all the things I’ll say to *this other woman*.
-
-But right then and there, the reality of all I’ve feared. It felt so much worst than I had imagined.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Ken in the office typing away
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Diane and Elanor out in a park, with the picnic Diane had prepared for her date
-
-ELANOR
-
-I had known for a while, but today I wanted to make sure.
-
-DIANE
-
-Why until now?
-
-ELANOR
-
-It was more of a feeling, we no longer talk anymore. Though I’m we’ve stopped talking long before you came onto the scene.
-
-DIANE
-
-Maybe sometimes it’s easier to talk to strangers. That’s how we started out strangers just talking. I never meant to…
-
-ELANOR
-
-It doesn’t matter.
-
-DIANE
-
-You know he still loves you a lot.
-
-ELANOR
-
-I know, but I still feel secondary to a person I’ve never met.
-
-DIANE
-
-I do too. I mean, I am aren’t I? You’re the wife. I think this only happened because Ken thought you were leaving him.
-
-ELANOR
-
-What?!
-
-DIANE
-
-Oh `realizes Ken lied to her about the state of his marriage`
-
----
-
-# Int. Interview room w/ Elanor
-
-[https://www.notion.so](https://www.notion.so)
-
-KAI
-
-So Diane confirmed your suspicious...
-
-ELANOR
-
-When Ken got home that night, I told him I know everything
-
-KAI
-
-Did he try to deny it?
-
-ELANOR
-
-No. He got on his knees and begged me to forgive him.
-
-KAI
-
-Forgiveness is yours to give, not for him to ask for.
-
-ELANOR
-
-There was a part of me that wanted to use this as an excuse to get a divorce. But he's the only love I've never known, so maybe it's worth a fight. He even agree to see counseling together.
-
-KAI
-
-Uh no, not the one next door? She's a quack, just skip the formalities and go see the one in the basement if you really want to fix your marriage.
-
-ELANOR
-
-If only you told me sooner. 
-
-ELANOR (cont)
-
-We really tried to work things out. I told him to never see Diane again.
-
----
-
-# Int. Diane’s apartment
-
-[https://www.notion.so](https://www.notion.so)
-
-Diane watching her phone
-
-DIANE (VO)
-
-That night Ken called me four times. The first three times, I let it go to voicemail. I knew what was coming.
-
-KAI (VO)
-
-Why did you finally answer.
-
-DIANE (VO)
-
-I guess I wanted closure. Even if I knew why, I still needed to hear the words from him.
-
-Diane *holds the veil on her hat over her eyes*
-
-DIANE (VO)
-
-He said he wanted to give me back my things.
-
----
-
-# Int. Elanor & Ken’s house
-
-[https://www.notion.so](https://www.notion.so)
-
-Elanor looks over a Pucca & Garu bag
-
-ELANOR
-
-So that’s everything?
-
-Ken nods and walks away from the room.
-
-Elanor pulls a silk scarf out of the bag slowly
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Elanor puts the scarf on herself, and twirls around in front of the mirror.
-
-ELANOR (VO)
-
- I couldn't help to wonder what Ken saw in Diane.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Shadow Elanor summons a Shadow Ken from the ground, they dance intimately. 
-
-ELANOR (VO)
-
-What he did with her.
-
-Elanor close her eyes.
-
-The shadows are silhouettes  of the the characters against a the backdrop of Elanor’s bedroom.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Shadow Ken pulls Shadow Elanor close, their shadows combine. 
-
-[https://www.notion.so](https://www.notion.so)
-
-When they part it is Shadow Diane and Shadow Ken that separate, with Shadow Elanor is in the middle.
-
-ELANOR (VO)
-
-How he’ll touch her
-
-Elanor’s runs her hands down her body
-
----
-
-[https://www.notion.so](https://www.notion.so)
+Elanor: I let my mind play games with me. *shaking her head in tears* Always imagining the worst!
 
 Shadow Diane and Shadow Ken dance around Shadow Elanor.
 
-ELANOR (VO)
+Elanor: The way she sounds
 
- I let my mind play games with me. Always imagining the worst!
+Shadow Diane takes the front
 
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Shadow Diane comes forward as Shadow Ken moves towards the background.
-
-ELANOR (VO)
-
-The way she sounds
-
----
-
-[https://www.notion.so](https://www.notion.so)
+Elanor: What her skin feels like
 
 Shadow Elanor reaches out to Shadow Diane. Shadow Diane pulls her into a dance.
-
 Shadow Ken fades backwards and disappears.
 
-ELANOR (VO)
+Shadow Elanor and Shadow Diane dance an epic tango. It ends with a kiss.
 
-What her skin feels like
+We zoom into Elanor opening her eyes in shock.
 
----
+# S 8: Diane
 
-[https://www.notion.so](https://www.notion.so)
+Diane: A few days later, Elanor who came to drop off my things. I almost wanted ask her to leave it at the door. I couldn't bare for anyone to see me that day.
 
-Shadow Elanor and Shadow Diane dance an epic tango.
+Kai: Why not?
 
-[https://www.notion.so](https://www.notion.so)
+Diane: Since Ken's call I haven't left my house. *looks down* But I didn't want to treat her like a deliveryman during the pandemic.
 
-It ends with a kiss.
+# S 9: Elanor
 
-[https://www.notion.so](https://www.notion.so)
+Elanor: When I waited at Diane's door my heart was pounding. I was more nervous than when I went to find out who's the woman my husband is seeing.
 
-Zoom into Elanor opening her eyes in shock.
+Kai: How is this different?
 
----
+Elanor: It was a weird mix of excitement, nervous, and strange sadness. This will be the last time I will see her, only having just met her. I feel I might be missing out on the chance of something... I don't know.
 
-# Int. Interview Diane
+Kai: You two did have a deep conversation last time you talked.
 
-[https://www.notion.so](https://www.notion.so)
+Elanor: Yes. When she opened the door, I saw someone I didn't want to recognize. My mother had depression when we were growing up. She'll do her duties as a wife and mother, then after that sleep all day.
 
-DIANE
+Kai: And you saw it in Diane.
 
-A few days later, Elanor who came to drop off my things. I almost wanted ask her to leave it at the door. I couldn't bare for anyone to see me that day.
+Elanor: Yes, but this was more acute. She looks like she hasn't showered in days. When I came into her apartment, I saw one of Ken's sweaters. I bet she's been living in it, and only took it off when she saw it was me at the door.
 
-KAI
+# 10. Diane's apartment
 
-Why not?
+Elanor: Ken wanted to come see you to give these things back. But I felt it will be easier for us all, if he didn't.
 
-DIANE
+Diane: *nods* 
 
-Since Ken's call I haven't left my house. But I didn't want to treat her like a deliveryman during the pandemic.
+- [ ] Somehow Elanor talks herself into the apartment
 
----
+Diane: I saw the way she looked at me and my apartment. I didn't want her to pity me.
 
-# Int. Interview Elanor
+*Her couch has a big weighted blanket, Ken's sweater, plushies, and pillows. It looks as if she migrated the contents of her bed into the couch. There is a start contrast between the sparking clean kitchen with a vitamix, bowl of fruits. Line up as almost ritualistically are empty liquor and wine bottles. It was a space that was normally clean and minimalist, that acquuired a new found clutter.* 
 
-[https://www.notion.so](https://www.notion.so)
+Elanor: *picks up an empty wine bottle* oh! I love this too. Have you tried their orange wine?
 
-ELANOR
+Diane: No, I haven't. I only drink reds.
 
-When I waited at Diane's door my heart was pounding. It was a weird mix of excitement, nervous, and strange sadness. This will be the last time I will see her, only having just met her. I feel I might be missing out on the chance of something... I don't know.
+Elanor: Even in the summer? You know, it's okay to like sweet things one in a while.
 
-KAI
+Diane: *sheepish smile*
 
-You two did have a deep conversation last time you talked.
+Elanor: I know, I'm not your favorite person right now.
 
----
+Diane: *starts picking up the clutter around the room, not looking at Elanor* I don't blame you. It was bond to happen. *She throw them in the recycle bing* It would have been silly to think our relationship could have turned out any differently.
 
-# Flashback Diane’s apartment entrance
+Elanor: Maybe go for someone who's single next time?
 
-[https://www.notion.so](https://www.notion.so)
+Diane: *sighs* Don't think my heart has capacity for a next time.
 
-ELANOR (VO)
+Elanor: Just give it time.
 
-Yes. When she opened the door, I saw someone I didn't want to recognize. My mother had depression when we were growing up. She'll do her duties as a wife and mother, then after that sleep all day.
+Diane:*shakes her head* no, it's not just this. It's all of it, I'm tired of trying to find the one.
 
-KAI (VO)
+Elanor: Do you still believe that exist? The one?
 
-And you saw it in Diane.
+Diane: Even if it doesn't, I feel it's the delusion we must tell ourselves to keep going.
 
-ELANOR (VO)
-
-Yes, but this was more acute. She looks like she hasn't showered in days. When I came into her apartment, I saw one of Ken's sweaters. I bet she's been living in it, and only took it off when she saw it was me at the door.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-ELANOR
-
-Ken wanted to come see you to give these things back. But I felt it will be easier for us all, if I came instead.
-
-Diane nods
-
-ELANOR
-
-It heavy, can I put it down somewhere?
-
-Diane motions a spot on the pantry. Elanor steps in and looks around her apartment.
-
-DIANE (VO)
-
-I saw the way she looked at me and my apartment. I didn't want her to pity me.
-
----
-
-[https://www.notion.so](https://www.notion.so)
-
-Diane couch has a big weighted blanket, Ken's sweater, plushies, and pillows. It looks as if she migrated the contents of her bed into the couch. There is a start contrast between the sparking clean kitchen with a vitamix, bowl of fruits. Line up as almost ritualistically are empty liquor and wine bottles. It was a space that was normally clean and minimalist, that acquired a new found clutter.
-
-Elanor picks up an empty wine bottle.
-
-ELANOR
-
-I love this too. Have you tried their orange wine?
-
-DIANE
-
-No, I haven't. I only drink reds.
-
-ELANOR
-
-Even in the summer? You know, it's okay to like sweet things one in a while.
-
-Diane gives a sheepish smile
-
-ELANOR
-
-I know, I'm not your favorite person right now.
-
-Diane *starts picking up the clutter around the room, not looking at Elanor* 
-
-DIANE
-
-I don't blame you. It was bond to happen.
-
-Diane throws the bottles in the recycle bin
-
-DIANE
-
-I’m silly to think our relationship could have turned out any differently.
-
-ELANOR
-
-Maybe go for someone who's single next time?
-
-DIANE
-
-Don't think my heart has capacity for a next time.
-
-ELANOR
-
-Give it time.
-
-Diane *shakes her head* 
-
-DIANE
-
-It's not just this. It's all of it! I'm tired of trying to find the one.
-
-ELANOR
-
-Do you still believe that exist? The one?
-
-DIANE
-
-Even if it doesn't, I feel it's the delusion we must tell ourselves to keep going.
-
-ELANOR
-
-Even if it doesn't, we can still keep going. When we got married, I thought I had found the one.
+Elanor: Even if it doesn't we can still keep going. When we got married, I thought I had found the one.
 But through the years of marriage, I've come to learn that it's less about destiny but choice.
 
-DIANE
+Diane: Like the act of me being on the apps in a choice? I am making an effort to find the one by seeeking it rather than waiting?
 
-Like the act of me being on the apps in a choice? I am making an effort to find the one by seeking it rather than waiting?
+Elanor: Some what. How do you figure out if someone is the one?
 
-ELANOR
+Diane: It's just a feeling. I haven't really had that feeling with anyone in a very long time.... well I've had with Ken, but...
 
-Some what. How do you figure out if someone is the one?
+Elanor: Does the feeling tell you if you guys will be compatiable or not?
 
-DIANE
+Diane: *thinks for a long moment* probably not. 
 
-It's just a feeling. I haven't really had that feeling with anyone in a very long time.... well I've had with Ken, but...
+Elanor: Why don't you try my approach to dating for a while, and let me know how it turns out.
 
-ELANOR
+```
+Diane believes in soulmates
+Elanor believes that its more about who we decide to spend our lives with
+How do their different perspectives collide?
+More importantly, how do they find common ground?
 
-Does the feeling tell you if you guys will be compatible or not?
+What are their different live experiences that lead them to their beliefs?
+Elanor's parents are disinterested in eachother and tolerate eachother. But at the same hand, she never saw it as bad. And just believe that's the way marriage is suppose to be. You stick together for the children, for the peace of a community. Elanor's choices to marry Ken and uphold traditions is out of wanting to keep the stability.
 
-DIANE
+Diane's was raised by her mom. Her mom believe that she had already found the one, and he died. Having never seen her parents in a real relationship, she only had stories to model her vision of romance from.
+She's idealistic, she wants a story book romance.
 
-probably not.
+Diane teaches Elanor to dream, and Elanor keeps Diane grounded.
 
-ELANOR
+```
 
-Why don't you try my approach to dating for a while, and let me know how it turns out.
+# D: Interview room
 
----
+Diane: I knew she had her own reason for being so invested in my love life. But it was still nice having support while trying to date.
+
+# Elanor and Diane at a Alley Pond Park
+
+![[Artboard 0.png]]
+
+- [ ] Use a more exciting/relatable dating story that can still be summed up in in a short exchange.
+
+Elanor: And then he just left?! After you threw up?
+
+Diane: Yea, he guessed nothing was happening that night.
+
+Elanor: Wow, guys these days, glad to not be still dating.
+
+Diane: *silent for a short moment* yea, you're lucky.
+
+![[Artboard 1.png]]
+
+Elanor: Maybe, if things don't work out with our couple's counselor. I could be out in the wild with you.
+
+Diane: How is that going by the way?
+
+Elanor: *sighs*
+
+Diane: Sorry! It was just a natural follow up question. It's none of my business. I'm supposed to be out of your lives
+
+![[Artboard 2.png]]
+
+Elanor: Without you in our, Ken and I would have never realized all that we've ignored up until now.
+
+Diane: What realizations?
+
+![[Artboard 4.png]]
+
+- [ ] This realization feels forced
+
+Elanor: In the decade we've been together means we grew up together, college, marriage. All of these milestones we hit together. While people our age were finding themselves, we were finding how to exist together. It made us more mature. But I can't help to wonder who Elanor Moon could have been if she didn't become...
+
+![[Artboard 5.png]]
+
+Kid: Mrs. Ishida!
+
+![[Artboard 6.png]]
+
+Kid's mom: Get back to the field! Your teammates are waiting!
+*turns to Elanor* Sorry, you're just his favorite extra curricular teacher.
+
+Elanor: He's really improving, I can see how much he practices.
+
+Kid's mom: We are so lucky to find such a talented Julliard grad like yourself!
+
+Elanor: Where I was went to school has nothing to do with your son's dedication. He's really improved so much since last year.
+
+Kid's mom: Yes, it's gotten less painful hearing him practice now. Haha. We'll see you next Thursday.
+
+*Cut to Elanor and Diane walking along the pond. It is late spring, the trees are in bloom, petals are falling*
+
+![[Artboard 7.png]]
+
+Diane: Wow you must have been really good to get a into Julliard. What was it for?
+
+Elanor: I wanted to be a concert violinist. *chuckles* I can't believe my parents were supportive, but I guess they got to brag about me during those years.
+
+Diane: Do you still play?
+
+Elanor: I wish, if only there was more time. One thing they never tell you is that homework never ends, even if you aren't the student.
+
+Diane: Do you regret being a teacher?
+
+Elanor: The kids are sweet, but I mostly regret marrying. Because if I didn't our family would have let me pursue music. But they said it's better this way. 
+
+Ken works very hard at stressful job, while I provide stability with mine.
+
+Diane: Yea, his boss is always breathing down his neck.
+
+Elanor: When he gets home, he's just a zombie. But I tell myself maybe that's ok, and maybe he won't notice, my doubts about our marriage.
+
+Diane: How long have you been feeling this way?
+
+Elanor: I can't remember. But when I feel this way I scold myself for not appreciating the life I do have.
+
+Diane: You can't help the way you feel. And you can't force yourself into a feeling a certain way, just because that's what you think you should feel.
+
+Elanor: What if the way I feel will hurt him? I can't let him know.
+
+Diane: But he knows something is up, he seems to think you're planning to leave him.
+
+Elanor: Is that why?
+
+Diane: *nods* I'm sorry. I shouldn't have, even if that were the case.
+
+*a moment of silence passes between them*
+
+Elanor: What if I had persuade being a professional violinist instead of getting a masters in education.
+
+- [ ] Elanor writes solo songs, but doesn't have anyone to share them with
+
+
+![[Artboard 8.png]]
+
+*They see it's an engagement*
+
+![[Artboard 9.png]]
+
+Elanor: Isn't that lovely.
+
+Diane: *starts tearing up*
+
+Elanor: Aw, you're touched too.
+
+Diane: No, it's just allergies
+
+Elanor: It's ok to cry
+
+Diane: I know, but not over sappy stuff
+
+Elanor: *giggles* I be you cry over rom-coms too.
+
+Diane: I don't watch rom-coms
+
+# They watch Love & leashes together
+
+*Towards the end*
+
+Elanor: I think everyone deserves that. To find a partner who won't shame them for being who they are.
+
+Diane: Ken used to say, because I'm bi, that he fears I'll leave him for a woman, ---
+
+Elanor: Because he doesn't think he'll be enough for you.
+
+Diane: *shocked that Elanor finished her sentence*
+
+Elanor: *looks back at Diane*, yea me too.
+
+Diane: I didn't know.. I thought he was your first.
+
+Elanor: Technically yes, the first and only partner. This was a long time ago, before we started dating. At our church, I got really close with the pastor's daughter. And when her parents found out, our family had to go to another church afterwards.
+
+Diane: Was your family that religious.
+
+Elanor: Yea, but it wasn't just about faith. It was finding community after immigrating. My parents were so ashamed, they knew the other families will talk about them once they left.
+The weirdest things is they spoke to me about why we had to leave. It was like they didn't know how to ask if I was gay.
+
+Diane: But you're not...?
+
+Elanor: Maybe they didn't want to admit it to themselves yet. When I cried about leaving our church, they said we had to because the pastor's daugther and I were bad influences on eachother. 
 
 # Intermission
 
-[https://www.notion.so](https://www.notion.so)
+> Shadow of Elanor and Diane walking on a tight stairwell, they notice each other and slows down. When they are on the same step the pause for a very long moment.
 
----
 
-# Ext. deep in the woods ~ Nighttime
 
-Sometime between 1-3am. It’s a full moon, but still dark. The only light sources visible are Elanor’s phone screen glare, and a few soft battery powered LED lamps of different animals. Elanor sits on a large rock, next her is a sapling fruit tree. Diane is busy digging a hole; there is a contrabass case nearby. They share a rare few moments of silence before Elanor starts almost nervously.
+![[intermission.png]]
 
-ELANOR
 
-I can’t believe few months ago, my greatest fear was Ken leaving me.
 
-DIANE
+> Elanor's feelings from the last scene are reflected back
+> Diane is wearing the same shaw as Elanor from the previous scene.
 
-(rolls her eyes)
-He was never going to do that!
+# Diane brings Elanor to an abandoned opera house
 
-ELANOR
+*In black screen*
 
-(jumps of the rock and starts walking towards the hole)
+Elanor: And the point of this is?
 
-What makes you so sure?
+Diane: I swear, it's safe. Just a little more.... Ouch!
+Oh here
 
-DIANE
+*a trap door swings open, and dim light floods the room. Elanor and Diane merges from on to a stage, in what seems to be an abandoned concert hall.*
 
- He’ll never go all in for me because he’s was always afraid I’ll leave him for a woman.
+Elanor: *looks around in amazement* How did you find this place?
 
-ELANOR
+Diane: A someone took me here once a few years ago. Dating all that bad, sometimes you meet people who know of cool places. 
 
-(appears right over the hole)
-Because he doesn’t think he’ll be enough for you?
+Elanor: Wow, I never knew... right here in the edge of the city.
 
-Diane stops digging, and turns to Elanor.
+Diane: *brings up a violin case* I know an electric one isn't a good, but we don't want to draw attention to ourselves.
 
-ELANOR
-He used to say that to me too.
+Elanor: *pulls out the violin*
 
-DIANE
-But he’s the only partner you’ve ever had!
+Diane: *putting on a pair of headphones, she whispers to Diane's ear* Play me something you wrote.
 
-ELANOR
-Technically, yes. Though in middle school, I got real close with the pastor’s daughter. We didn’t know what to call it, but we were a little more than best friends.
+*Elanor fiddles with the strings, and puts on her own headphones. Diane jumps off the stage and into a chair. The space between them is filled with music*
 
-Diane pushes the shovel unto the ground with her foot and jumps up from the hole.
+# Elanor drives them back
 
-ELANOR
-One afternoon, her mom walked came up to give us snacks. 
+Diane: How did that feel?
 
-(Looks up at the moon)
+Elanor: It was as if a part of myself that was hibernating woke up again.
 
-Then suddenly my family was going to another church.
+Diane: Would you want it to stay awake?
 
-Diane looks at the moon too, a breezes passes through the leaves. Diane looks at the shovel, then to the hole. She turns to the cello case.
+Elanor: You mean go back to that place?
 
-DIANE
-I guess… guess…. Your family is pretty religious?
+Diane: *shakes her head*, there's this fellowship for adult non-professional composers. I think you should apply. It is in the summer, in Florence, so it won't interrupt school.
 
-ELANOR
-Not really. It wasn’t about *that*.
+Elanor: Maybe, I'll have to talk to Ken.
 
-Mom just said “you and that girl are bad influence on each other. Next week we going to St. Mary’s”. But we weren’t even Catholic!
+# Elanor brings up the fellowship to Ken
 
-DIANE
+- [ ] They get into a fight
 
-Maybe they didn’t want to admit it to themselves.
+# Diane in present talking to Kai
 
-ELANOR
+> Kai: When was the last time you saw Ken?
+> Diane falls for it and tells them about when she went to visit Elanor,
+> after she senses something is wrong.
 
-That and the gossip. Our family cut lies with everyone from the old church, including our friends who helped dad get his first job. Church only “family” we had since coming to the States. 
 
-Elanor has tears welling up in her eyes. 
+> Kai: Did you kill Kenji Ishida?
+> 
+> Elanor: *looks down and diverts her gaze* It was an accident
+> 
 
-Diane reaches out to offers a hug, but pulls back.
+> Diane: No, because I killed Kenji Ishida.
 
-ELANOR
+# S 5: 6am Kai solves the case
 
-After that, I swore to not cause my family trouble again.
-
-DIANE
-
-Time to bury our troubles.
+> Ends with Diane pulling up in a convertable. Reveals Elanor walking down the steps of of the agency, shows they are next to a marriage counseling therapist, and an adult toys store. Elanor kisses Diane.
