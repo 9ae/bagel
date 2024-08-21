@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "185fa1a3de97c17a",
+    "type": "split",
+    "children": [
+      {
+        "id": "343c4e778ef2a579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "330af4d3d2be6f32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34c616f375d84b80",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb3a77ed5d9eed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d49aac570de3d20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "402af59109af2a58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "133b60faebad27d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07b321d68a5dae8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae5867d7458d8f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a0ad2cc6b90e82e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/daily.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e61cac4389398211",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/daily.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdacc7f6c239cd24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6266ea477c4d134a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/daily.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d49aac570de3d20",
+  "lastOpenFiles": [
+    "femmenoir/Brainstorm.canvas",
+    "femmenoir/Backstory.canvas",
+    "femmenoir/draft3-outline.md",
+    "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
+    "femmenoir/draft2-2_scene-elanor-comesout.pdf",
+    "Templates/daily.md",
+    "femmenoir/draft2.md",
+    "femmenoir/Outline.canvas",
+    "femmenoir/draft1.md",
+    "Templates",
+    "Journal",
+    "Welcome.md",
+    "femmenoir/Draft 1 ea224d12da9343bda6b2a69556b9d934.md",
+    "femmenoir/draft1.zip",
+    "femmenoir/Unconfirmed 22360.crdownload",
+    "femmenoir/storyboards/alley_pond_park/procreate_raw.psd",
+    "femmenoir/storyboards/alley_pond_park/boards.psd",
+    "femmenoir/storyboards/alley_pond_park/Artboard 9.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 8.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 7.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 6.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 5.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 4.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 3.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 2.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 1.png",
+    "femmenoir/storyboards/alley_pond_park/Artboard 0.png",
+    "femmenoir/storyboards/alley_pond_park",
+    "femmenoir/storyboards",
+    "femmenoir/script.md",
+    "femmenoir/Characters.md",
+    "Sun and Moon/Outline.canvas",
+    "Sun and Moon/script.md",
+    "Sun and Moon/Characters.md",
+    "Sun and Moon/Backstory.canvas"
+  ]
+}
