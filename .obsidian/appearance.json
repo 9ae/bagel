@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "textFontFamily": "Futura"
+  "accentColor": "#b26294",
+  "textFontFamily": "Avenir",
+  "cssTheme": "Tokyo Night",
+  "theme": "system"
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "343c4e778ef2a579",
+        "id": "328d8b20631bd0b7",
         "type": "tabs",
         "children": [
           {
-            "id": "330af4d3d2be6f32",
+            "id": "9a88f54e42bc4809",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "femmenoir/_todo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/daily.md",
+                "file": "femmenoir/_todo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/daily.md",
+                "file": "femmenoir/_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/daily.md"
+                "file": "femmenoir/_todo.md"
               }
             }
           }
@@ -143,16 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d49aac570de3d20",
+  "active": "9a88f54e42bc4809",
   "lastOpenFiles": [
     "femmenoir/Brainstorm.canvas",
-    "femmenoir/Backstory.canvas",
+    "femmenoir/Outline.canvas",
     "femmenoir/draft3-outline.md",
+    "Ink/Drawing/2024.8.21 - 7.41am.drawing",
+    "Ink/Drawing",
+    "Ink",
     "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
+    "femmenoir/Backstory.canvas",
+    "femmenoir/_todo.md",
+    "Templates/Project/_todo.md",
+    "Templates/Project/_index.md",
+    "Templates/Project/_brainstorm.canvas",
+    "Templates/Project",
     "femmenoir/draft2-2_scene-elanor-comesout.pdf",
     "Templates/daily.md",
     "femmenoir/draft2.md",
-    "femmenoir/Outline.canvas",
     "femmenoir/draft1.md",
     "Templates",
     "Journal",
@@ -160,8 +172,6 @@
     "femmenoir/Draft 1 ea224d12da9343bda6b2a69556b9d934.md",
     "femmenoir/draft1.zip",
     "femmenoir/Unconfirmed 22360.crdownload",
-    "femmenoir/storyboards/alley_pond_park/procreate_raw.psd",
-    "femmenoir/storyboards/alley_pond_park/boards.psd",
     "femmenoir/storyboards/alley_pond_park/Artboard 9.png",
     "femmenoir/storyboards/alley_pond_park/Artboard 8.png",
     "femmenoir/storyboards/alley_pond_park/Artboard 7.png",
@@ -172,8 +182,6 @@
     "femmenoir/storyboards/alley_pond_park/Artboard 2.png",
     "femmenoir/storyboards/alley_pond_park/Artboard 1.png",
     "femmenoir/storyboards/alley_pond_park/Artboard 0.png",
-    "femmenoir/storyboards/alley_pond_park",
-    "femmenoir/storyboards",
     "femmenoir/script.md",
     "femmenoir/Characters.md",
     "Sun and Moon/Outline.canvas",

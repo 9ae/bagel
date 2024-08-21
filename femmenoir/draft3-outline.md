@@ -18,6 +18,8 @@ Elanor kills Ken
 Act 3
 ⭐️ 
 
+
+
 # Open Questions
 
 - [ ] How did Elanor & Diane come into contract with each other
@@ -26,6 +28,8 @@ Act 3
 - [ ] Why did Elanor kill ken?
 
 # Outline
+
+180-200 words per page
 
 1. Elanor & Ken
 	1. > 
