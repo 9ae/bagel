@@ -33,4 +33,7 @@ Act 3
 3. Diane & Ken, who's Diane
 4. Why does Diane settle for this
 5. Elanor & Diane: how do they come into contact
-6. 
+6. Focus on their dynamic
+7. Build
+8. Elanor kills Ken
+9. 
