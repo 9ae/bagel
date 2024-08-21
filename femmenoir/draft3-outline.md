@@ -34,7 +34,11 @@ Act 3
 1. Elanor & Ken
 	1. > 
 2. What's there conflict
-3. Diane & Ken, who's Diane
+3. Diane & Ken, who's Diane. 
+	1. *If we see this story from Elanor's perspective*
+		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
+		2. Ken forgot his lunch, Elanor went to bring it
+		3. She saw him look at Diane, the way she used to look at Elanor
 4. Why does Diane settle for this
 5. Elanor & Diane: how do they come into contact
 6. Focus on their dynamic

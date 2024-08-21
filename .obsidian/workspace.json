@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "femmenoir/_todo.md",
+                "file": "femmenoir/draft3-outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "femmenoir/_todo.md",
+                "file": "femmenoir/draft3-outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "femmenoir/_todo.md",
+                "file": "femmenoir/draft3-outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "femmenoir/_todo.md"
+                "file": "femmenoir/draft3-outline.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "9a88f54e42bc4809",
   "lastOpenFiles": [
+    "femmenoir/_todo.md",
     "femmenoir/Brainstorm.canvas",
     "femmenoir/Outline.canvas",
     "femmenoir/draft3-outline.md",
@@ -157,7 +158,6 @@
     "Ink",
     "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
     "femmenoir/Backstory.canvas",
-    "femmenoir/_todo.md",
     "Templates/Project/_todo.md",
     "Templates/Project/_index.md",
     "Templates/Project/_brainstorm.canvas",
