@@ -31,6 +31,7 @@ Act 3
 
 180-200 words per page
 
+0. E & D burying the body (setup expectations)
 1. Elanor & Ken
 	1. > 
 2. What's there conflict
