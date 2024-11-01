@@ -132,6 +132,28 @@ Diane helps boost ken's confidence for the presentation
 Ken leaves feeling ecstatic and excited for the presentation instead of nervous
 Diane did feel the chemistry too, and blushes at the end. *show her looking out the window hopefully*
 
+### N. Elanor smells Ken’s shirt
+
+<u>Setting</u>
+Their house
+*Feeling* suspicious 
+
+<u>Start</u>
+Characters:
+- **Elanor** disillusioned about her marriage, is going through the motions. She is annoyed and constantly has to pickup after Ken.
+
+
+<u>What happens</u>
+*What do we want to show?* Their relationship had problems before.
+
+Elanor is picking up stuff in the living room.
+She picks up Ken’s clothes, rolls her eyes.
+She notices she hasn’t seen it before, and it does not smell like him, but distinctly feminine perfume.
+
+<u>Exit</u>
+
+
+
 ### D. Ken asks Diane out
 <u>Setting</u>
 Diane's office
