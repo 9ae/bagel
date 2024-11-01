@@ -11,23 +11,6 @@
             "id": "9a88f54e42bc4809",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "femmenoir/Brainstorm.canvas",
-                "viewState": {
-                  "x": 1261.8467917516705,
-                  "y": 382.2374751965777,
-                  "zoom": -0.48197369194467
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Brainstorm"
-            }
-          },
-          {
-            "id": "70a347d9494a445a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "femmenoir/draft3-outline.md",
@@ -38,8 +21,7 @@
               "title": "draft3-outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,27 +162,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70a347d9494a445a",
+  "active": "9a88f54e42bc4809",
   "lastOpenFiles": [
-    "Templates/Script outline.md",
-    "femmenoir/Characters.md",
-    "Templates/daily.md",
+    "femmenoir/draft1.md",
+    "femmenoir/draft2.md",
     "femmenoir/draft3-outline.md",
     "femmenoir/_todo.md",
+    "Templates/Project/_brainstorm.canvas",
+    "Templates/Project/_index.md",
+    "Templates/Project/_todo.md",
+    "Templates/Script outline.md",
     "femmenoir/Brainstorm.canvas",
+    "femmenoir/Characters.md",
+    "Templates/daily.md",
     "femmenoir/Outline.canvas",
     "Ink/Drawing/2024.8.21 - 7.41am.drawing",
     "Ink/Drawing",
     "Ink",
     "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
     "femmenoir/Backstory.canvas",
-    "Templates/Project/_todo.md",
-    "Templates/Project/_index.md",
-    "Templates/Project/_brainstorm.canvas",
     "Templates/Project",
     "femmenoir/draft2-2_scene-elanor-comesout.pdf",
-    "femmenoir/draft2.md",
-    "femmenoir/draft1.md",
     "Templates",
     "Journal",
     "Welcome.md",
