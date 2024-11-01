@@ -1,7 +1,8 @@
 
-__M1. Submit draft 3__
+__M1. Nano
 - [x] Type up chart
 - [ ] Make outline
-	- [ ] from brainstorm
+	- [x] from brainstorm
 	- [ ] bring intro scenes
-- [ ] Set deadline to complete this draft
+- [x] Set deadline to complete this draft: Nov 30
+- [ ] Write draft 3
