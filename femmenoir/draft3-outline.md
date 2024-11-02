@@ -148,10 +148,27 @@ Characters:
 
 Elanor is picking up stuff in the living room.
 She picks up Ken’s clothes, rolls her eyes.
-She notices she hasn’t seen it before, and it does not smell like him, but distinctly feminine perfume.
+She notices she hasn’t seen it before, and it does not smell like him, but distinctly feminine perfume. 
+Freezes, all that has happened has flashed before her eyes.
+
+Ken comes into the living room, “what…”
+
+Elanor turns to him, holding up the shirt.
+“What’s this?”
+
+Ken: it’s not what you think
+
+They get into a fight. Ken thinks she is paranoid. Elanor explains given his history she had every reason to be. 
+
+Ken: but nothing happened last time!
+
+Elanor clearly thinks otherwise 
 
 <u>Exit</u>
 
+Ken: you’ll never forgive me will you?
+
+Elanor: walks away
 
 
 ### D. Ken asks Diane out
