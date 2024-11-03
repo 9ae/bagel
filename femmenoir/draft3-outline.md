@@ -40,19 +40,24 @@ C. Diane & Ken, who's Diane.
 		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
 		2. Ken forgot his lunch, Elanor went to bring it
 		3. She saw him look at Diane, the way she used to look at Elanor
-**N. Elanor sees Ken's wearing a different shirt, and seems it.**
+N. Elanor sees Ken's wearing a different shirt, and seems it.
 	Shows that maybe Ken stepping out is a pattern.
 D. Ken pursues Diane.
 	1. *Why does Diane settle for this?*
-**O. Their first date**
-**P. Talking about their dreams in bed**
-**Q. Elanor finds out Ken's married**
+O. Their first date
+**R. Elanor scene: What is she doing during this time?**
+	1. Violin class
+	2. Group class in church
+	3. Church choir
+P. Talking about their dreams in bed
+**Q. Diane finds out Ken's married**
 E. Diane follow Elanor
 	1. Focus on their dynamic
 F. Elanor confronts Ken about the affair
-G. Ken ends it with Diane
+	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.
+G. Elanor daydreams about Ken & Diane
+H. Ken ends it with Diane
 	1. Phone ringing scene
-H. Elanor daydreams about Ken & Diane
 I. Elanor returns Diane's stuff
 J. Ken contacts Diane again, tells her things are not working out between him and Elanor
 K. Diane tells Elanor that Ken told her
@@ -67,7 +72,7 @@ M. Burial & kiss
 ### A. Burial
 
 <u>Setting</u>
-Out in the forest 
+Out in the forest. 
 *Feeling* Frantic
 
 <u>Start</u>
@@ -76,9 +81,10 @@ Characters:
 - Elanor
 Shows dark forest in full moon
 Goes to second source of light
+Their clothes are blood stained.  
 
 <u>What happens</u>
-Elanor & Diane are digging. No dialog.
+Elanor & Diane are digging. No dialog. 
 
 <u>Exit</u>
 Zooms into Elanor who touches the contrabass case.
@@ -93,7 +99,7 @@ Elanor and Ken's house
 <u>Start</u>
 Characters:
 - **Elanor** is getting ready for work. She'd looking for something in the closet and Ken's contrabass case falls on her. *Show her feeling trapped by all the stuff*
-- **Ken** is checked out. We see Elanor calls him several times but he's on his phone.
+- **Ken** is checked out. We see Elanor calls him several times but he's on his phone. He's on some message board where people are sharing their secrets anonymously.
 
 
 <u>What happens</u>
@@ -195,5 +201,43 @@ Diane: I... you know what? Thursday is perfect!
 Ken goes back to work. Diane's phone beeps, the woman replied and saids this Thursday works for her. But Diane decides to call it off.
 
 
+### O. Their first date
 
+<u>Setting</u>
+Italian restaurant in Bayside
+*Feeling* excitement
+
+<u>Start</u>
+Characters:
+- **Ken** feels giddy
+- **Diane** a little uncertain but hopeful
+
+<u>What happens</u>
+*What do we want to show?* They are similar in unlikely ways
+*How?* Ken wanted to be a jazz musician. Diane wanted to be a composer. The truth is that Diane is better with Elanor who is a more classical player. And we will slowly uncover that in the end.
+Diane is the oldest sister in the family, so she must choose a career path that provided.
+
+<u>Exit</u>
+Stumble onto a jazz band in the streets. They kiss
+Diane: Some times when you aren't exactly looking, you stumble upon what exactly you need.
+
+### P. Talking about their dreams in bed
+
+<u>Setting</u>
+Diane's apartment. Start of with her keyboard, and sheets of handwritten sheet music.
+Discarded clothes near it. Sunlit bedroom.
+*Feeling* serene
+
+<u>Start</u>
+Characters:
+- **Ken** feels guilty, is a little detached
+- **Diane** looking foundly at Ken as if she's found the one.
+
+
+<u>What happens</u>
+*What do we want to show?* Diane is falling in love.
+Convo circle backs to during first date
+
+<u>Exit</u>
+Diane is so headover heels, but something Ken said leaves her to be suspicious.
 

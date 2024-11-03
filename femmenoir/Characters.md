@@ -10,6 +10,8 @@ She's kindergarten teacher
 
 > Sailor Neptune
 
+Got married early to Ken because she got pregnant in college. Their family forced them to marry. Then she had a miscarriage.
+
 ## Diane Sun
 Ice queen, says everything with a straight face
 Is carefree
