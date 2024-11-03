@@ -50,7 +50,7 @@ O. Their first date
 	2. Group class in church
 	3. Church choir
 P. Talking about their dreams in bed
-**Q. Diane finds out Ken's married**
+Q. Diane finds out Ken's married
 E. Diane follow Elanor
 	1. Focus on their dynamic
 F. Elanor confronts Ken about the affair
@@ -240,4 +240,22 @@ Convo circle backs to during first date
 
 <u>Exit</u>
 Diane is so headover heels, but something Ken said leaves her to be suspicious.
+*What does Ken say or do that makes Diane suspicious?*
 
+### Q. Diane finds out Ken's married
+<u>Setting</u>
+Rain
+*Feeling* betrayed, unable to process the reality of the situation.
+Venice
+
+<u>Start</u>
+Characters:
+- **Diane** thinks that she has found the one. Is making plans in her life to be with him.
+
+<u>What happens</u>
+*What do we want to show?* Diane runs out in the rain, and walks for hours when she finds out.
+Diane finds out from their someone they work with.
+She turns to the bathroom, and thinks about all the moments. She heavy breathing, and comes to the realization.
+
+<u>Exit</u>
+Diane crying a shivering in bed
