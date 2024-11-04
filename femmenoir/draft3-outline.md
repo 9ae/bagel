@@ -45,7 +45,7 @@ N. Elanor sees Ken's wearing a different shirt, and seems it.
 D. Ken pursues Diane.
 	1. *Why does Diane settle for this?*
 O. Their first date
-**R. Elanor scene: What is she doing during this time?**
+R. Elanor scene: What is she doing during this time?
 	1. Violin class
 	2. Group class in church
 	3. Church choir
@@ -217,6 +217,21 @@ Diane is the oldest sister in the family, so she must choose a career path that 
 <u>Exit</u>
 Stumble onto a jazz band in the streets. They kiss
 Diane: Some times when you aren't exactly looking, you stumble upon what exactly you need.
+
+### R. Elanor teaching at church choir
+<u>Setting</u>
+Church
+*Feeling* trapped
+
+<u>Start</u>
+Characters:
+- **Elanor** is bored by her life.
+
+<u>What happens</u>
+*What do we want to show?* How integrated she is to the church community, and how trapped she feels by them.
+
+<u>Exit</u>
+Also shows signs that Elanor has a bit of cold blooded in her.
 
 ### P. Talking about their dreams in bed
 
