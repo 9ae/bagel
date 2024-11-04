@@ -59,7 +59,7 @@ G. Elanor daydreams about Ken & Diane
 H. Ken ends it with Diane
 	1. Phone ringing scene
 I. Elanor returns Diane's stuff
-J. Ken contacts Diane again, tells her things are not working out between him and Elanor
+J. ~~Ken contacts Diane again, tells her things are not working out between him and Elanor~~
 K. Diane tells Elanor that Ken told her
 	1. Elanor admits things aren't working out
 	2. But she feels trapped.
@@ -281,4 +281,127 @@ Show them connecting as humans
 Diane feels like she can no longer in good faith continue to see Ken.
 Elanor has confirmed her suspicions about Ken stepping out. But she's conflicted on whether or not she should confront him or not.
 
+ELANOR (VO)
+I don’t know what came over me. I ran over in my mind so many times, all the things I’ll say to *this other woman*.
+But right then and there, the reality of all I’ve feared. It felt so much worst than I had imagined.
 
+### F. Elanor confronts Ken about the affair
+<u>Setting</u>
+Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.
+*Feeling* broken like the plates
+
+<u>Start</u>
+Characters:
+- **Elanor** disappointed and disillusioned
+- **Ken** ashamed
+
+
+<u>What happens</u>
+*What do we want to show?*
+Elanor looks over a Pucca & Garu bag
+
+ELANOR
+So that’s everything?
+
+Ken nods and walks away from the room.
+
+<u>Exit</u>
+Elanor pulls a silk scarf out of the bag slowly
+
+### G. Elanor daydreams about Ken & Diane
+<u>Setting</u>
+Their bedroom
+*Feeling* vicarious lesbianism
+
+<u>Start</u>
+Characters:
+- **Elanor** almost masochistically wonders what Ken does with Diane, almost a mask for her own potential desires for another woman.
+
+
+<u>What happens</u>
+*What do we want to show?* Ways in which how some bi-women come upon their sexuality.
+
+Elanor puts the scarf on herself, and twirls around in front of the mirror.
+
+ELANOR (VO)
+ I couldn't help to wonder what Ken saw in Diane.
+ 
+Shadow Elanor summons a Shadow Ken from the ground, they dance intimately. 
+
+ELANOR (VO)
+What he did with her.
+
+Elanor close her eyes.
+
+The shadows are silhouettes  of the the characters against a the backdrop of Elanor’s bedroom.
+
+Shadow Ken pulls Shadow Elanor close, their shadows combine. 
+
+When they part it is Shadow Diane and Shadow Ken that separate, with Shadow Elanor is in the middle.
+
+ELANOR (VO)
+How he’ll touch her
+
+Elanor’s runs her hands down her body
+
+Shadow Diane and Shadow Ken dance around Shadow Elanor.
+
+ELANOR (VO)
+ I let my mind play games with me. Always imagining the worst!
+
+Shadow Diane comes forward as Shadow Ken moves towards the background.
+
+ELANOR (VO)
+The way she sounds
+
+Shadow Elanor reaches out to Shadow Diane. Shadow Diane pulls her into a dance.
+
+Shadow Ken fades backwards and disappears.
+
+ELANOR (VO)
+What her skin feels like
+
+Shadow Elanor and Shadow Diane dance an epic tango.
+
+<u>Exit</u>
+It ends with a kiss. Zoom into Elanor opening her eyes in shock.
+
+### H. Ken and Diane ends it
+<u>Setting</u>
+Diane's apartment
+*Feeling* anxiety
+
+<u>Start</u>
+Characters:
+- **Diane** does not want to face the reality of the situation
+
+<u>What happens</u>
+*What do we want to show?* How the brreakup makes Diane feel as if all they had been to eachother was all a dream.
+
+The phone rings 3 times, Diane has let them all go to voicemail.
+She finally answers on the 4th time.
+
+DIANE (VO)
+I eventually picked up because I wanted closure. Even if I knew the truth, I still needed to hear the words from him.
+
+<u>Exit</u>
+*What does Diane do that makes her more relatable to the audience?*
+
+Surreal scene where Diane tries to grasp on to the memories of Ken while running through a dessert. She breaks the mirage by punching into the bathroom mirror, she see her hands bleeding as she looks up, eyes half mind.
+
+### I. Elanor returns Diane's stuff
+<u>Setting</u>
+Diane's apartment
+*Feeling*
+
+<u>Start</u>
+Characters:
+- **Diane** is reached heartbreak mania. She wants revenge.
+- **Elanor** feels almost ashamed of her dreams from last night
+
+<u>What happens</u>
+*What do we want to show?* bond further over the ways Ken has wrong them.
+Elanor wants escape from this cycle. Here we reveal how controlling Elanor's family is. Tell the story about her and the pastor's daughter. If she and Ken gets divorced there will be so much gossip in their church community and she can't possibly do that to them again. Elanor talks about she bares with this relationship she knows he's cheating, but if they separate it will be worse.
+
+<u>Exit</u>
+They plot to end Ken
