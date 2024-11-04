@@ -237,6 +237,10 @@ Characters:
 <u>What happens</u>
 *What do we want to show?* Diane is falling in love.
 Convo circle backs to during first date
+Ken: What are you smiling about?
+Diane: I am just looking forward to awaking up next to you every morning someday.
+
+Ken leaves his sweatshirt with Diane.
 
 <u>Exit</u>
 Diane is so headover heels, but something Ken said leaves her to be suspicious.
@@ -258,4 +262,23 @@ Diane finds out from their someone they work with.
 She turns to the bathroom, and thinks about all the moments. She heavy breathing, and comes to the realization.
 
 <u>Exit</u>
-Diane crying a shivering in bed
+Diane crying a shivering in bed, she is wearing his sweatshirt.
+
+### E. Diane follow Elanor
+<u>Setting</u>
+Elanor dismissing kids from school
+*Feeling* skating on the edge
+
+<u>Start</u>
+Characters:
+- **Diane** is curious, in an almost masochist way wants to find out what his wife is like. 
+
+<u>What happens</u>
+*What do we want to show?* How similar Elanor and Diane are.
+Show them connecting as humans
+
+<u>Exit</u>
+Diane feels like she can no longer in good faith continue to see Ken.
+Elanor has confirmed her suspicions about Ken stepping out. But she's conflicted on whether or not she should confront him or not.
+
+
