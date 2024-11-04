@@ -50,7 +50,8 @@
               "title": "draft1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75a0a635ac8580b1",
@@ -213,7 +214,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a88f54e42bc4809",
+  "active": "cf910e4f76288cbb",
   "lastOpenFiles": [
     "femmenoir/draft2.md",
     "femmenoir/draft3-outline.md",

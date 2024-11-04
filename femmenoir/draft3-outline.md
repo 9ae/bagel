@@ -59,12 +59,9 @@ G. Elanor daydreams about Ken & Diane
 H. Ken ends it with Diane
 	1. Phone ringing scene
 I. Elanor returns Diane's stuff
-J. ~~Ken contacts Diane again, tells her things are not working out between him and Elanor~~
-K. Diane tells Elanor that Ken told her
-	1. Elanor admits things aren't working out
-	2. But she feels trapped.
-	3. They make a plan to free Elanor
-L. Murder plot
+J. Plot murder w/ poison
+K. Meet a chemist Diane knew at opera house
+L. Elanor kills Ken during dinner
 M. Burial & kiss
 
 ## Detailed
@@ -255,11 +252,15 @@ Venice
 <u>Start</u>
 Characters:
 - **Diane** thinks that she has found the one. Is making plans in her life to be with him.
+She has happily packed an extra lunch for him and is humming on her way to work.
 
 <u>What happens</u>
-*What do we want to show?* Diane runs out in the rain, and walks for hours when she finds out.
-Diane finds out from their someone they work with.
+*What do we want to show?* 
+Diane goes to the pantry to surprise him, and she overhears him and his coworker talking.
+His coworker saids he's so lucky to have his wife make him lunch every day.
+
 She turns to the bathroom, and thinks about all the moments. She heavy breathing, and comes to the realization.
+Diane runs out in the rain, and walks for hours when she finds out.
 
 <u>Exit</u>
 Diane crying a shivering in bed, she is wearing his sweatshirt.
@@ -405,3 +406,78 @@ Elanor wants escape from this cycle. Here we reveal how controlling Elanor's fam
 
 <u>Exit</u>
 They plot to end Ken
+
+### J. Plot murder w/ poison
+<u>Setting</u>
+Diane's apartment
+*Feeling* hesit
+
+<u>Start</u>
+Characters:
+- Elanor is unwinding her desires
+- Diane is trying to help Elanor with her ambitions
+
+<u>What happens</u>
+*What do we want to show?*
+Elanor fantasizes about poisoning the lunch she packs him
+Diane who work for a pharmaceutical companies has connections.
+Is Ken allergic to anything?
+
+<u>Exit</u>
+They both discover how their musical dreams align. Elanor ends up playing one of Diane's pieces. 
+
+### K. Meet chemist at opera house
+<u>Setting</u>
+Abandoned opera house
+*Feeling* secretive
+
+<u>Start</u>
+Characters:
+- **Elanor** is nervous
+- **Diane** feels resolved
+
+
+<u>What happens</u>
+This gives Elanor a chance to explores her dreams of being a concert violinist.
+*What do we want to show?* They do the handoff, but runs into conflict and solves it together.
+Maybe the person they've met was Diane's ex who is bitter about something.
+
+<u>Exit</u>
+They run back towards the car, adrenaline rush and almost have a kiss. 
+
+### Elanor kills Ken during dinner
+<u>Setting</u>
+Elanor and Ken's house
+*Feeling* epic montague
+
+<u>Start</u>
+Characters:
+- **Elanor** executes the plan flawlessly. 
+
+<u>What happens</u>
+*What do we want to show?*
+How Elanor has it in her to conduct murder coldly.
+Diane is actually a little shocked whens she see's Ken's body.
+
+<u>Exit</u>
+Diane comes to their house. She helps Elanor take the contrabass out of the case and carry it down the stairs. 
+
+### M. Burial & kiss
+<u>Setting</u>
+Forest
+*Feeling* resolved
+
+<u>Start</u>
+Characters:
+- **Diane** is digging the pit, she feels rather shakey about everything that is going on. She is starting to have some regrets.
+- **Elanor** is sitting on the contrabass case. She reassures that they will be better off going forward.
+
+<u>What happens</u>
+*What do we want to show?*
+Bring back their chemistry throughout as they talk about their dreams for the future.
+The question arise whether or not they will be in each other's future.
+
+Elanor: You have set me free, how can I forget that.
+
+<u>Exit</u>
+They stare at each other in the moonlight and kiss.
