@@ -1,3 +1,6 @@
+==Think of each character introduction==
+
+
 # Q. Diane finds out Ken's married
 
 ## Int. Diane's apartment - Kitchen - morning

@@ -44,7 +44,7 @@ N. Elanor sees Ken's wearing a different shirt, and seems it.
 	Shows that maybe Ken stepping out is a pattern.
 D. Ken pursues Diane.
 	1. *Why does Diane settle for this?*
-O. Their first date
+O. vo montage scenes: buddying romance that show the passage of time
 R. Elanor scene: What is she doing during this time?
 	1. Violin class
 	2. Group class in church
