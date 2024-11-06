@@ -34,10 +34,61 @@ She walks through the commercial area her office is in, show the various busines
 
 We enter a residential neighborhood where an elderly woman comes out and curses as she brings the clothes on the hanging lines back in.
 
-DIANE (VO)
-Even if I cry, will it matter? My tears will be taken away by the rain, just like the rain by the Long Island sound.
-
 DIANE walks all the way to Bay Terrance park, and stares at the lighthouse.
 
+DIANE (VO)
+Even if I cry, will it matter? My tears will be taken away by the rain, just like the rain by the river.
 ## Int. Diane's bedroom - night
-DIANE is dried up, she in wearing only underwear and Ken's sweatshirt. It is dark except the lights from her two Pokemon lamps. She is rolled up fetal position and starts to cry. She continues throughout the night. Crying and shivering.
+DIANE is dried up, she in wearing only underwear and Ken's sweatshirt. It is dark, except the lights from her two Pokemon lamps. She is rolled up fetal position and starts to cry. She continues throughout the night. Crying and shivering.
+
+# E. Diane follow Elanor
+
+## Ext. Elementary school - afternoon
+
+Elanor is greeting parents who come to pick up their kids from school. We reveal that Diane is watching her from a bus stop, pretending to wait for a bus. 
+
+DIANE (VO)
+Who is the woman you've kept a secret from me. Am I also a secret you've kept from her?
+
+The last of her student leaves, and she head towards the bus stop. Diane shocked and is worried Elanor caught her.
+
+DIANE (THINKS)
+Maybe she does know about me.
+
+ELANOR stands on line next to DIANE on the bus stop. She looks at her phone and sighs
+
+ELANOR announce to no one in particular
+It's late again!
+
+- [ ] strikes up a convo as they are waiting for the delayed bus
+
+The bus finally arrive, it looks as if several bus loads of people are all crammed in. Diane and Elanor makes their way in, they find a stop in the back next to each other.
+## Int. bus - afternoon
+
+- [ ] they continue talking
+
+The bus takes a sharp turn and everyone swoosh to one side. Elanor gets pressed up against Diane.  Diane tries to hold herself and Elanor still.
+
+DIANE (THINKS)
+If this were a rom-com it would be our meet cute. She'll say sorry, and we'll start talking.
+*Diane blushes at the thought.*
+If only we met under different circumstances.
+
+ELANOR (THINKS)
+That smell. So distinct, yet so familiar.
+
+Everyone on the bus is back i upright position. Elanor is still frozen and lost in thought.
+
+DIANE shakes Elanor
+You ok?
+
+ELANOR snaps out of it. She looks at Diane and scans her.
+
+ELANOR
+I'm the next stop.
+
+The bus makes a stop and Elanor abruptly dashes for the door.
+
+## Ext. street - small commercial district - afternoon
+
+Turns out Elanor is very far away from home, but she walks the rest of the way.

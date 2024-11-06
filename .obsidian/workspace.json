@@ -6,7 +6,7 @@
       {
         "id": "328d8b20631bd0b7",
         "type": "tabs",
-        "dimension": 40.831295843520785,
+        "dimension": 38.38630806845966,
         "children": [
           {
             "id": "b950dde5b04c060b",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "femmenoir/draft3-outline.md",
+                "file": "femmenoir/draft2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft3-outline"
+              "title": "draft2"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "a2a0d2db93fc08bf",
         "type": "tabs",
-        "dimension": 59.168704156479215,
+        "dimension": 61.613691931540345,
         "children": [
           {
             "id": "9a88f54e42bc4809",
@@ -162,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "femmenoir/draft3-outline.md"
+                "file": "femmenoir/Draft 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of draft3-outline"
+              "title": "Outline of Draft 3"
             }
           }
         ],
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +186,10 @@
   },
   "active": "9a88f54e42bc4809",
   "lastOpenFiles": [
+    "femmenoir/draft2.md",
     "femmenoir/draft3-outline.md",
     "femmenoir/Draft 3.md",
-    "femmenoir/draft2.md",
+    "[[draft3-outline.md",
     "femmenoir/draft1.md",
     "femmenoir/Characters.md",
     "femmenoir/_todo.md",

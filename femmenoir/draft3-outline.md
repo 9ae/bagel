@@ -33,36 +33,36 @@ Act 3
 
 180-200 words per page
 
-A. E & D burying the body (setup expectations)
-B. Elanor & Ken
-C. Diane & Ken, who's Diane. 
+- [ ] A. [E & D burying the body (setup expectations)[([[draft3-outline#A. Burial]])]
+- [ ] B. [Elanor & Ken]([[draft3-outline#B. Elanor & Ken morning]])
+- [ ] C. [Diane & Ken, who's Diane.]([[draft3-outline#C. Ken meets Diane]])
 	1. *If we see this story from Elanor's perspective*
 		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
 		2. Ken forgot his lunch, Elanor went to bring it
 		3. She saw him look at Diane, the way she used to look at Elanor
-N. Elanor sees Ken's wearing a different shirt, and seems it.
+- [ ] N. [Elanor sees Ken's wearing a different shirt, and seems it.]([[draft3-outline#N. Elanor smells Ken’s shirt]])
 	Shows that maybe Ken stepping out is a pattern.
-D. Ken pursues Diane.
+- [ ] D. [Ken pursues Diane.]([[draft3-outline#D. Ken asks Diane out]])
 	1. *Why does Diane settle for this?*
-O. vo montage scenes: buddying romance that show the passage of time
-R. Elanor scene: What is she doing during this time?
+- [ ] O. vo montage scenes: buddying romance that show the passage of time
+- [ ] R. [Elanor scene: What is she doing during this time?]([[draft3-outline#R. Elanor teaching at church choir]])
 	1. Violin class
 	2. Group class in church
 	3. Church choir
-P. Talking about their dreams in bed
-Q. Diane finds out Ken's married
-E. Diane follow Elanor
+- [ ] P. [Talking about their dreams in bed]([[draft3-outline#P. Talking about their dreams in bed]])
+- [x] Q. [Diane finds out Ken's married]([[draft3-outline#Q. Diane finds out Ken's married]])
+- [ ] E. [[draft3-outline#E. Diane follow Elanor]]
 	1. Focus on their dynamic
-F. Elanor confronts Ken about the affair
+- [ ] F. [Elanor confronts Ken about the affair]([[draft3-outline#F. Elanor confronts Ken about the affair]])
 	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.
-G. Elanor daydreams about Ken & Diane
-H. Ken ends it with Diane
+- [ ] G. [Elanor daydreams about Ken & Diane]([[draft3-outline#G. Elanor daydreams about Ken & Diane]])
+- [ ] H. [Ken ends it with Diane]([[draft3-outline#H. Ken and Diane ends it]])
 	1. Phone ringing scene
-I. Elanor returns Diane's stuff
-J. Plot murder w/ poison
-K. Meet a chemist Diane knew at opera house
-L. Elanor kills Ken during dinner
-M. Burial & kiss
+- [ ] I. [Elanor returns Diane's stuff]([[draft3-outline#I. Elanor returns Diane's stuff]])
+- [ ] J. [Plot murder w/ poison]([[draft3-outline#J. Plot murder w/ poison]])
+- [ ] K. [Meet a chemist Diane knew at opera house]([[draft3-outline#K. Meet chemist at opera house]])
+- [ ] L. [Elanor kills Ken during dinner]([[draft3-outline#L. Elanor kills Ken during dinner]])
+- [ ] M. [Burial & kiss]([[draft3-outline#M. Burial & kiss]])
 
 ## Detailed
 
@@ -460,7 +460,7 @@ Maybe the person they've met was Diane's ex who is bitter about something.
 <u>Exit</u>
 They run back towards the car, adrenaline rush and almost have a kiss. 
 
-### Elanor kills Ken during dinner
+### L. Elanor kills Ken during dinner
 <u>Setting</u>
 Elanor and Ken's house
 *Feeling* epic montague
