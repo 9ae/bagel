@@ -293,6 +293,16 @@ Characters:
 *What do we want to show?* How similar Elanor and Diane are.
 Show them connecting as humans
 
+They are at the bus stop. A creep starts hitting on Elanor, Diane saves her from guy.
+Elanor gets close enough to see that Diane is reading Brienne & Cersi fanfic. “The Queen & her lady knight”. (Foreshadows what’s about to happen). Since it’s a big enough cultural touch point we can allude to it without mentioning names.
+
+“We pretend the last season never happened”
+
+Talk about points in the canon they could have possibly met. Maybe in one story Jaime died, and they met at his funeral.
+
+Also shipping talks naturally lead to relationship talk or their perspectives about romance.
+
+
 <u>Exit</u>
 Diane feels like she can no longer in good faith continue to see Ken.
 Elanor has confirmed her suspicions about Ken stepping out. But she's conflicted on whether or not she should confront him or not.
