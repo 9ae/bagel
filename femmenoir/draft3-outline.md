@@ -51,7 +51,7 @@ Act 3
 	3. Church choir
 - [ ] P. [Talking about their dreams in bed]([[draft3-outline#P. Talking about their dreams in bed]])
 - [x] Q. [Diane finds out Ken's married]([[draft3-outline#Q. Diane finds out Ken's married]])
-- [ ] E. [[draft3-outline#E. Diane follow Elanor]]
+- [x] E. [[draft3-outline#E. Diane follow Elanor]]
 	1. Focus on their dynamic
 - [ ] F. [Elanor confronts Ken about the affair]([[draft3-outline#F. Elanor confronts Ken about the affair]])
 	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.
@@ -104,6 +104,8 @@ Characters:
 Elanor mentions how the closet is filled with mostly Ken's stuff. And he hasn't played it in years, maybe she should give it to her student.
 Ken saids babe but that's how they met
 Elanor looks like she's about to start an argument, but lets it go and suppresses it.
+
+She fantasizes about tragedy befalling upon Ken
 
 <u>Exit</u>
 They leave the house Ken drives Elanor to work. They are silent the whole car ride.
@@ -182,7 +184,7 @@ Diane's office
 <u>Start</u>
 Characters:
 - **Ken** takes off his wedding ring and puts it in his pocket. He fixes his hair and collar. Knocks on the door returns Diane's shirt to her the next day. He's excited to see her, and wants to find an excuse to see her again. Maybe invites her to dinner.
-- **Diane** is looking at her phone, she's on the apps again *show her drained out.*
+- **Diane** is looking at her phone. She has a Cersei and Brianne fanart wallpaper. she's on the apps again *show her drained out.*
 	- Guys sending her lame messages
 	- She's waiting to hear response from a woman, about dinner plans this Thursday.
 
@@ -229,6 +231,9 @@ Characters:
 
 <u>What happens</u>
 *What do we want to show?* How integrated she is to the church community, and how trapped she feels by them.
+
+Elanor goes back to an empty home, instead of being sad, she reveals that Ken is not there.
+“Sometimes you just want to be yourself, and it’s hard with anyone else around”
 
 <u>Exit</u>
 Also shows signs that Elanor has a bit of cold blooded in her.
@@ -418,7 +423,7 @@ Surreal scene where Diane tries to grasp on to the memories of Ken while running
 ### I. Elanor returns Diane's stuff
 <u>Setting</u>
 Diane's apartment
-*Feeling*
+*Feeling* channel Valerie
 
 <u>Start</u>
 Characters:
@@ -436,6 +441,7 @@ They plot to end Ken
 <u>Setting</u>
 Diane's apartment
 *Feeling* hesit
+Bound with like Vivienne
 
 <u>Start</u>
 Characters:
@@ -455,6 +461,7 @@ They both discover how their musical dreams align. Elanor ends up playing one of
 <u>Setting</u>
 Abandoned opera house
 *Feeling* secretive
+Mission driven and excitement: Ivan
 
 <u>Start</u>
 Characters:
@@ -491,6 +498,7 @@ Diane comes to their house. She helps Elanor take the contrabass out of the case
 <u>Setting</u>
 Forest
 *Feeling* resolved
+Strange sense of ease with someone you just met like Inna
 
 <u>Start</u>
 Characters:
