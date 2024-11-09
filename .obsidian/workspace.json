@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "femmenoir/draft3-outline.md",
+                "file": "femmenoir/Draft 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft3-outline"
+              "title": "Draft 3"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "femmenoir/draft3-outline.md"
+                "file": "femmenoir/Draft 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of draft3-outline"
+              "title": "Outline of Draft 3"
             }
           }
         ],
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +165,9 @@
   },
   "active": "b950dde5b04c060b",
   "lastOpenFiles": [
+    "femmenoir/draft3-outline.md",
     "femmenoir/draft2.md",
     "femmenoir/Draft 3.md",
-    "femmenoir/draft3-outline.md",
     "[[draft3-outline.md",
     "femmenoir/draft1.md",
     "femmenoir/Characters.md",
