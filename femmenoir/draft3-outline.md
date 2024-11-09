@@ -33,9 +33,9 @@ Act 3
 
 180-200 words per page
 
-- [ ] A. [E & D burying the body (setup expectations)[([[draft3-outline#A. Burial]])]
-- [ ] B. [Elanor & Ken]([[draft3-outline#B. Elanor & Ken morning]])
-- [ ] C. [Diane & Ken, who's Diane.]([[draft3-outline#C. Ken meets Diane]])
+- [ ] [[#A. Burial]]
+- [ ] [[#B. Elanor & Ken morning]]
+- [ ] [[#C. Ken meets Diane]]
 	1. *If we see this story from Elanor's perspective*
 		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
 		2. Ken forgot his lunch, Elanor went to bring it
