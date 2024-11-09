@@ -40,29 +40,30 @@ Act 3
 		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
 		2. Ken forgot his lunch, Elanor went to bring it
 		3. She saw him look at Diane, the way she used to look at Elanor
-- [ ] N. [Elanor sees Ken's wearing a different shirt, and seems it.]([[draft3-outline#N. Elanor smells Ken’s shirt]])
+- [ ] [[#N. Elanor smells Ken’s shirt]]
 	Shows that maybe Ken stepping out is a pattern.
-- [ ] D. [Ken pursues Diane.]([[draft3-outline#D. Ken asks Diane out]])
+- [ ]  [[#D. Ken asks Diane out]]
 	1. *Why does Diane settle for this?*
 - [ ] O. vo montage scenes: buddying romance that show the passage of time
-- [ ] R. [Elanor scene: What is she doing during this time?]([[draft3-outline#R. Elanor teaching at church choir]])
+- [ ] [[#R. Elanor teaching at church choir]]
 	1. Violin class
 	2. Group class in church
 	3. Church choir
-- [ ] P. [Talking about their dreams in bed]([[draft3-outline#P. Talking about their dreams in bed]])
+- [ ] [[#P. Talking about their dreams in bed]]
 - [x] Q. [Diane finds out Ken's married]([[draft3-outline#Q. Diane finds out Ken's married]])
 - [x] E. [[draft3-outline#E. Diane follow Elanor]]
 	1. Focus on their dynamic
-- [ ] F. [Elanor confronts Ken about the affair]([[draft3-outline#F. Elanor confronts Ken about the affair]])
-	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.
-- [ ] G. [Elanor daydreams about Ken & Diane]([[draft3-outline#G. Elanor daydreams about Ken & Diane]])
-- [ ] H. [Ken ends it with Diane]([[draft3-outline#H. Ken and Diane ends it]])
-	1. Phone ringing scene
-- [ ] I. [Elanor returns Diane's stuff]([[draft3-outline#I. Elanor returns Diane's stuff]])
-- [ ] J. [Plot murder w/ poison]([[draft3-outline#J. Plot murder w/ poison]])
-- [ ] K. [Meet a chemist Diane knew at opera house]([[draft3-outline#K. Meet chemist at opera house]])
-- [ ] L. [Elanor kills Ken during dinner]([[draft3-outline#L. Elanor kills Ken during dinner]])
-- [ ] M. [Burial & kiss]([[draft3-outline#M. Burial & kiss]])
+- [ ] ~~[[#F. Elanor confronts Ken about the affair]]
+	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.~~
+- [ ] [[#G. Elanor daydreams about Ken & Diane]]
+- [ ] ~~[[#H. Ken and Diane ends it]]  Phone ringing scene~~
+- [ ] [[#I. Elanor returns Diane's stuff]]
+- [ ] [[#J. Plot murder w/ poison]]
+- [ ] [[#K. Meet chemist at opera house]]
+- [ ] Ken has date w/ Diane and she fails
+- [ ] Diane calls Elanor after and they re-group at the park
+- [ ] [[#L. Elanor kills Ken during dinner]]
+- [ ] [[#M. Burial & kiss]]
 
 ## Detailed
 
