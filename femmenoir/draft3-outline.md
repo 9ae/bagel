@@ -106,7 +106,8 @@ Elanor mentions how the closet is filled with mostly Ken's stuff. And he hasn't 
 Ken saids babe but that's how they met
 Elanor looks like she's about to start an argument, but lets it go and suppresses it.
 
-She fantasizes about tragedy befalling upon Ken
+She fantasizes about tragedy befalling upon Ken. Ken standing in the street when a speeding Cadillac hits him
+
 
 <u>Exit</u>
 They leave the house Ken drives Elanor to work. They are silent the whole car ride.
