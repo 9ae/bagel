@@ -22,6 +22,10 @@ Diane wants a meet cute, she wants the story with her soulmate to be a story you
 
 > Sailor Jupiter
 
+## Intro scene - date
+
+
+
 ## Kenji Ishida
 
 Diane's husband. 5'6 handsome
