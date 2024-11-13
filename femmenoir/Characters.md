@@ -23,6 +23,10 @@ Diane wants a meet cute, she wants the story with her soulmate to be a story you
 > Sailor Jupiter
 
 ## Kenji Ishida
+
+Diane's husband. 5'6 handsome
+Has insecurities. Has been unfaithful before.
+
 ## Kai
 gender neutral assisant of detective. Likes paninis from Press
 

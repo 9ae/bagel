@@ -1,5 +1,22 @@
-==Think of each character introduction==
+==Think of each character introductions==
 
+# A. Elanor & Diane in the woods
+
+ELANOR is sitting on a cello case, DIANE is digging.
+
+- [ ] They talk, Diane ask why doesn't she help out
+
+ELANOR jumps into the ditch. Camera pulls back to tilt into an aerial view, it zooms out to reveal the trees as shadows and fades to black.
+
+# B. Elanor & ken in the morning
+
+## Int. Elanor & Ken's walk-in closet - morning
+
+Coming black ELANOR turns on the light in a closet. She is surrounded by stuff.
+
+ELANOR: Ken! Have you seen my ___ ?
+
+ELANOR continues to look through shelves. We can see they are label, but things on it are misplaced. She finally finds what she is looking for and rushes out. A contrabass case falls and blocks the door of the walk-in closet. She lets out an aggravated groan. 
 
 # Q. Diane finds out Ken's married
 
