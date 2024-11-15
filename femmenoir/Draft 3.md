@@ -14,9 +14,99 @@ ELANOR jumps into the ditch. Camera pulls back to tilt into an aerial view, it z
 
 Coming black ELANOR turns on the light in a closet. She is surrounded by stuff.
 
-ELANOR: Ken! Have you seen my ___ ?
+ELANOR: Ken! Have you seen my box of glue sticks?
 
-ELANOR continues to look through shelves. We can see they are label, but things on it are misplaced. She finally finds what she is looking for and rushes out. A contrabass case falls and blocks the door of the walk-in closet. She lets out an aggravated groan. 
+ELANOR is looking through a box of journaling & scrap booking supplies. She pulls out parts from a model train set. She makes a disgruntled noise and and puts the box back on the shelf. She continues to look through shelves. We can see they are label, but things on it are misplaced. She reach’s for a high shelf where Ken’s model train supplies to resort. Her watch beep indicating it’s time to head out. She gives up and is about to head out of the closet. A contrabass case falls and blocks the door of the walk-in closet.
+
+ELANOR *yells out the door*
+Can you please, come up and help me?
+
+A few seconds pass, no one is coming up. She lets out an aggravated groan and shoves it aside. She loudly makes it down the stairs of a town house.
+
+KEN 31, 5’6, with short parted hair is looking down at his phone while leaning on the kitchen counter. Something on his phone makes him laugh, and he let’s out a chuckle. His mind is clearly somewhere else.
+
+ELANOR *walks up to KEN’s face.*
+Hey!
+
+KEN *looks up*
+Are you ready? Let’s go, I have an investor meeting today.
+
+ELANOR
+I called you several times, didn’t you hear?
+
+KEN
+Well our walls are pretty good at sound isolation, hun.
+
+ELANOR
+If you can hear my students playing from upstairs while you are in the basement. You certainly can here me call for you.
+
+KEN *sighs and puts his phone in his pocket*
+
+ELANOR
+Have you seen my glue sticks?
+
+KEN
+No, aren’t they with your scrapbook supplies.
+
+ELANOR
+Stationary supplies
+
+KEN
+Whatever, why do you need them now anyway.
+
+ELANOR
+Because the school cut funding for art supplies, so teachers have to bring their own for any activities.
+
+KEN
+Oh, maybe we can just pick up some on the way at Target?
+
+ELANOR
+That’s not the point I got a whole bunch while they were on sale. I don’t need another pack to keep around. We already have too much stuff. *You* have too many hobbies.
+
+KEN
+Can you blame me? I’m just compelled to create.
+
+ELANOR
+What about your contrabass? You haven’t touched it in years. I can give it to one of my students. Terry’s playing annoys his parents, maybe I can give him something less painful to practice with.
+
+KEN
+But that’s for keepsake, that’s how we meet. Remember, you first violinist and I the walking case.
+
+ELANOR *looks as if she’s about to say something but just shakes it off*
+Let’s go I’m late.
+
+They turn off the lights and head out the house. 
+
+## Ext. Street with row of narrow town houses - morning
+
+KEN presses the key and a car diagonally across the street unlocks. He crosses the street, the suddenly a black sports car come racing down the street, then turns to face the car just as it’s about to hit him. Lens flare burst to white screen.
+
+ELANOR shakes herself as she opens her eyes, KEN safely made it across the street. There was never a black car that passed by. He hops in his car, as she gathers herself she makes her way to the car.
+
+ELANOR (VO)
+Sometimes I dream
+
+## Int. Car
+
+ We pass an almost residential area, with a few small businesses in on the ground floors. One house advertised it’s marriage counseling services, and it’s basement tenant is an adult toy store.
+
+ELANOR
+Maybe we
+
+KEN
+We’ve tried it before, it didn’t work.
+
+ELANOR
+Because you missed every other session.
+
+KEN
+It’s hard to have appointments when your team is launching a new product.
+Maybe we try someone other than Father Daniel? It’s weird, he feels too much like family. We’ve known him since you were in Youth group.
+
+ELANOR
+This time it will be different?
+
+KEN doesn’t answer. They spend the rest of the car ride in silence, until KEN slows down and pulls up to the playground of an elementary school.
 
 # Q. Diane finds out Ken's married
 

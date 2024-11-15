@@ -34,7 +34,7 @@ Act 3
 180-200 words per page
 
 - [ ] [[#A. Burial]]
-- [ ] [[#B. Elanor & Ken morning]]
+- [x] [[#B. Elanor & Ken morning]]
 - [ ] [[#C. Ken meets Diane]]
 	1. *If we see this story from Elanor's perspective*
 		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
