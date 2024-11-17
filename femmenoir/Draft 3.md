@@ -108,6 +108,57 @@ This time it will be different?
 
 KEN doesn’t answer. They spend the rest of the car ride in silence, until KEN slows down and pulls up to the playground of an elementary school.
 
+# N. Elanor smells Ken's shirt
+
+## Int. bedroom - night
+
+ELANOR walks into the bedroom and see a pile of clothes on the floor. She sighs as she picks them up. She picks up the shirt Diane gave him.
+
+ELANOR *holds the shirt up to her nose.*
+Fruity and crisp.
+
+She stares into space and a bunch of images flashes across her mind.
+- She walks up to her car to see Ken kissing someone
+- Their living room with scattered plates, and floor lamp fallen
+- Ken walking out
+- Ken on his knees pleading her to stay
+- Elanor gripping a knife tightly.
+
+KEN *comes into the room*
+Babe, have you seen my ---
+
+ELANOR *spins around*
+What's this?!
+
+KEN notices the expression on her face.
+It's not what you think?
+
+ELANOR
+Oh yea? Did you just decide to buy a new shirt? You who's been walking around with holes in all his socks for years? Every Christmas, I'm just stuffing socks in your sock.
+
+KEN
+Coffee spilled, and someone at the work space lent me a shirt.
+
+ELANOR
+How convient?
+
+KEN *grabs the shirt from Elanor.*
+You're paranoid
+
+ELANOR
+Oh you think?
+
+KEN
+Nothing happened with her! And it years ago!
+
+ELANOR
+And yet you took a chance.
+
+KEN
+You'll never forgive me, will you?
+
+ELANOR looks stern standing there. She doesn't say anything putting the rest of the laundry in the hamper and walks out of the room.
+
 # Q. Diane finds out Ken's married
 
 ## Int. Diane's apartment - Kitchen - morning

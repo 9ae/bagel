@@ -44,7 +44,7 @@ Act 3
 	Shows that maybe Ken stepping out is a pattern.
 - [ ]  [[#D. Ken asks Diane out]]
 	1. *Why does Diane settle for this?*
-- [ ] O. vo montage scenes: buddying romance that show the passage of time
+- [ ] O. vo montage scenes: buddying romance that show the passage of time. Ken insist they communicate via letters (instead of giving her his number)
 - [ ] [[#R. Elanor teaching at church choir]]
 	1. Violin class
 	2. Group class in church
@@ -55,10 +55,11 @@ Act 3
 	1. Focus on their dynamic
 - [ ] ~~[[#F. Elanor confronts Ken about the affair]]
 	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.~~
-- [ ] [[#G. Elanor daydreams about Ken & Diane]]
+	ELANOR wonders what is going on with Ken. She finds Diane's address.
 - [ ] ~~[[#H. Ken and Diane ends it]]  Phone ringing scene~~
 - [ ] [[#I. Elanor returns Diane's stuff]]
 - [ ] [[#J. Plot murder w/ poison]]
+- [ ] [[#G. Elanor daydreams about Ken & Diane]]
 - [ ] [[#K. Meet chemist at opera house]]
 - [ ] Ken has date w/ Diane and she fails
 - [ ] Diane calls Elanor after and they re-group at the park
@@ -149,7 +150,6 @@ Their house
 Characters:
 - **Elanor** disillusioned about her marriage, is going through the motions. She is annoyed and constantly has to pickup after Ken.
 
-
 <u>What happens</u>
 *What do we want to show?* Their relationship had problems before.
 
@@ -237,6 +237,8 @@ Characters:
 Elanor goes back to an empty home, instead of being sad, she reveals that Ken is not there.
 “Sometimes you just want to be yourself, and it’s hard with anyone else around”
 
+Show she drove their car to chruch
+
 <u>Exit</u>
 Also shows signs that Elanor has a bit of cold blooded in her.
 
@@ -246,6 +248,8 @@ Also shows signs that Elanor has a bit of cold blooded in her.
 Diane's apartment. Start of with her keyboard, and sheets of handwritten sheet music.
 Discarded clothes near it. Sunlit bedroom.
 *Feeling* serene
+
+Diane lives in a garden style apartment.
 
 <u>Start</u>
 Characters:
