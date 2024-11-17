@@ -171,10 +171,10 @@ DIANE blushes as she looks up.
 Um.. are you a Queen and Lady Knight shipper too?
 
 ELANOR nods excitedly.
-They are such an obscure pair, since they only had one scene together in canon. I've never met another fan in real life.
+Oh my….! I've never met another fan in real life.
 
 DIANE
-We are such a small community, and everyone is really nice. Since are strictly fannon, we never get into any shipping wars.
+Me neither. We are such a small bunch.
 
 ELANOR
 Have you read __ ?
@@ -183,7 +183,7 @@ DIANE
 No, I'm a little behind. But I heard it's mostly smut. I'm much more into the slow burns. They both have so much character development they need to go through before they make sense together.
 
 ELANOR
-Haha, I can see yo are the yearning type of romantic.
+Haha, I can see yo are the yearning romantic type. 
 
 DIANE
 Maybe I'm too much of a romantic. I can't seem to see past the obvious lies.
