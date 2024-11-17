@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "328d8b20631bd0b7",
+        "id": "07d7d2b47a235bb6",
         "type": "tabs",
         "children": [
           {
-            "id": "b950dde5b04c060b",
+            "id": "c13fd1f38f747b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "femmenoir/Draft 3.md",
+                "file": "femmenoir/Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draft 3"
+              "title": "Characters"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "07b321d68a5dae8d",
@@ -163,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b950dde5b04c060b",
+  "active": "c13fd1f38f747b2c",
   "lastOpenFiles": [
-    "femmenoir/Characters.md",
     "femmenoir/Draft 3.md",
+    "femmenoir/Characters.md",
     "femmenoir/draft3-outline.md",
     "femmenoir/draft2.md",
     "[[draft3-outline.md",
