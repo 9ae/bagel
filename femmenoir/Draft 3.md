@@ -272,3 +272,50 @@ The bus makes a stop and Elanor abruptly dashes for the door.
 ## Ext. street - small commercial district - afternoon
 
 Turns out Elanor is very far away from home, but she walks the rest of the way.
+
+# F. Elanor walks home
+
+## Ext. street - small commercial district - afternoon
+
+ELANOR (VO 1)
+Wow, you really are making excuses for yourself aren't you?
+
+ELANOR (VO 2)
+Maybe I'm just paranoid
+
+ELANOR (VO 1)
+You have a right to be, it happened once, can happen again.
+
+ELANOR (VO 2)
+Will it ever be not something that's constantly burning over my mind?
+
+ELANOR (VO 1)
+Maybe when he's dead
+
+ELANOR
+Shut up!
+
+The streets are quiet a few pedestrians look at her, but most just continue on their way.
+
+## Int. bedroom - evening
+
+Ken is in the shower, you can here the water running. ELANOR walks up to the night stand and picks up his phone. She enters in his passcode, and checks his messages. Nothing out of the ordinary. Photos, just phones of them and their family, and his hobbies.
+
+ELANOR (VO)
+This is pathetic, I'm just paranoid.
+
+A Lyft notification saids "thank you for being a frequent user, and rewards him with $10 off his next ride."
+
+ELANOR (VO)
+Wait, but we have a car.
+
+She opens the Lyft app, and looks through the ride history. They are travel to and back from one address. The shower sounds stops. She takes a screenshot and sends it to her own phone. And dashes out the room, down the stairs, and out.
+
+KEN comes out from the bathroom into the bedroom in a towel, and sees his phone on the floor.
+
+KEN
+Elanor? Elanor!
+
+He looks all over the house, and finally see the car keys are missing. He picks up his phone to call Diane.
+
+

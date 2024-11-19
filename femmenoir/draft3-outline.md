@@ -40,7 +40,7 @@ Act 3
 		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
 		2. Ken forgot his lunch, Elanor went to bring it
 		3. She saw him look at Diane, the way she used to look at Elanor
-- [ ] [[#N. Elanor smells Ken’s shirt]]
+- [x] [[#N. Elanor smells Ken’s shirt]]
 	Shows that maybe Ken stepping out is a pattern.
 - [ ]  [[#D. Ken asks Diane out]]
 	1. *Why does Diane settle for this?*
@@ -428,7 +428,7 @@ Surreal scene where Diane tries to grasp on to the memories of Ken while running
 
 ### I. Elanor returns Diane's stuff
 <u>Setting</u>
-Diane's apartment
+Diane's garden style apartment
 *Feeling* channel Valerie
 
 <u>Start</u>
