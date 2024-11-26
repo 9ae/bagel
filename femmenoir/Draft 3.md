@@ -319,3 +319,122 @@ Elanor? Elanor!
 He looks all over the house, and finally see the car keys are missing. He picks up his phone to call Diane.
 
 
+# I. Elanor visits Diane
+
+## Int. Diane's apartment - night
+
+DIANE in a silk bathrobe, a glass of red wine. She looks outside as her phone rings, she makes no motion to answer it.
+
+DIANE (VO)
+That night Ken called me four times. I let them go to voicemail. I knew what was coming. Whether he ends it, or I end it when we talk again. Should have known it was all too good to be true. What we had will all just fade into a beautiful memory.
+
+The doorbell rings, DIANE almost spills her wine.
+
+DIANE
+Guess there's no avoiding now.
+
+She walks down the steps to open the door, expecting to see Ken.
+
+DIANE
+We need to talk, right?
+
+ELANOR
+We most certainly do.
+
+DIANE looks up to realize it's not Ken. The two women stand there looking at each other for a long moment. DIANE opens her door wider and steps back, giving space for ELANOR  to enter. She steps in closing the door. As they walk up the stairs.
+
+ELANOR
+Nice place, do you life here alone?
+
+DIANE
+Yea, when my company moved offices from the city to all the way in deep Queens. It didn't make sense to be paying all that money no green space at all.
+
+When they reach the living area, ELANOR scans the room.
+
+ELANOR
+So, this is where he goes when I'm at tutoring or at church.
+
+DIANE
+I didn't know...
+
+ELANOR
+Know what? That it was my husband you have over?
+
+DIANE takes a step backward.
+
+ELANOR
+You knew enough to find me.
+
+DIANE *takes in a breathe.*
+I just found out a few days ago.
+
+ELANOR *sighs*
+This again?
+
+DIANE
+What do you mean?
+
+ELANOR
+Don't think you were the first. And you certainly won't be the last.
+
+DIANE *looks away, holding back tears.*
+I really thought what he and I had was special.
+
+ELANOR
+Didn't we all? What sweetness did he whisper? Promises he made? Promises knew he could never keep?
+
+DIANE
+If you knew about this all along, why do you....?
+
+ELANOR
+Stay in this marriage? We've been together since high school, my family have adopted him as their own, he goes to our church. They all love him. A divorce would....My family can't afford another scandal.
+
+DIANE
+You mean another time when Ken had....
+
+ELANOR *shakes her head*
+No. It's not that, he's smart enough to not dip his toes into that pool.
+In middle school, I got pretty close with the pastor's daughter.
+
+DIANE 
+Oh, you're a moth, huh?
+
+ELANOR
+We didn't know what to call it, but we were a little more than best friends.
+
+DIANE
+Believed they called it "gal pals" back in the day.
+
+ELANOR
+One afternoon, her mom walked up to give us snacks.
+*twirls Diane's wine glass*
+Then suddenly my family was going to another church.
+
+DIANE
+I guess... guess... your family is rather religious?
+
+ELANOR
+Not really. It wasn't that.
+
+DIANE
+Maybe they didn't want to admit it to themselves...
+
+ELANOR
+They never asked if I am... if I like... Mom just said "that girl is a bad influence. Next Sunday we're checking out St. Robert Bellarmine".
+*She chuckles*
+We weren't even Catholic. But church is the only community we had since coming to the States. Our old pastor helped my dad find his first job. I can't afford for my family to at the center of gossip again. Not after, we've finally found or place in this country.
+
+DIANE
+So you...?
+
+ELANOR
+Rather, not know to be honest. But you came to find me, and...
+
+DIANE
+I'm going to end things with him.
+
+ELANOR
+It doesn't matter if you do, I'm still trapped in his marriage.
+Sometimes I wish some horrible accident will fall upon him.
+Better a widow than divorcee.
+

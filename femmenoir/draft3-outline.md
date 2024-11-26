@@ -57,7 +57,7 @@ Act 3
 	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.~~
 	ELANOR wonders what is going on with Ken. She finds Diane's address.
 - [ ] ~~[[#H. Ken and Diane ends it]]  Phone ringing scene~~
-- [ ] [[#I. Elanor returns Diane's stuff]]
+- [x] [[#I. Elanor returns Diane's stuff]]
 - [ ] [[#J. Plot murder w/ poison]]
 - [ ] [[#G. Elanor daydreams about Ken & Diane]]
 - [ ] [[#K. Meet chemist at opera house]]
@@ -434,7 +434,7 @@ Diane's garden style apartment
 <u>Start</u>
 Characters:
 - **Diane** is reached heartbreak mania. She wants revenge.
-- **Elanor** feels almost ashamed of her dreams from last night
+
 
 <u>What happens</u>
 *What do we want to show?* bond further over the ways Ken has wrong them.
@@ -471,7 +471,7 @@ Mission driven and excitement: Ivan
 
 <u>Start</u>
 Characters:
-- **Elanor** is nervous
+- **Elanor** is nervous. She feels almost ashamed of her dreams from last night
 - **Diane** feels resolved
 
 
