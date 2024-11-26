@@ -53,7 +53,7 @@ Act 3
 - [x] Q. [Diane finds out Ken's married]([[draft3-outline#Q. Diane finds out Ken's married]])
 - [x] E. [[draft3-outline#E. Diane follow Elanor]]
 	1. Focus on their dynamic
-- [ ] ~~[[#F. Elanor confronts Ken about the affair]]
+- [x] ~~[[#F. Elanor confronts Ken about the affair]]
 	Dishes & cups are scatter across the floor. A floor lamp is knocked over the space is quiet, but not totally silent. The camera moves up the stairs to the bed room. Elanor and Ken are with a duffle bad by the bed.~~
 	ELANOR wonders what is going on with Ken. She finds Diane's address.
 - [ ] ~~[[#H. Ken and Diane ends it]]  Phone ringing scene~~
