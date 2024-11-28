@@ -35,7 +35,7 @@ Act 3
 
 - [ ] [[#A. Burial]]
 - [x] [[#B. Elanor & Ken morning]]
-- [ ] [[#C. Ken meets Diane]]
+- [x] [[#C. Ken meets Diane]]
 	1. *If we see this story from Elanor's perspective*
 		1. Elanor walks in on the moment Diane is about to step on Ken in the pantry
 		2. Ken forgot his lunch, Elanor went to bring it

@@ -108,6 +108,79 @@ This time it will be different?
 
 KEN doesn’t answer. They spend the rest of the car ride in silence, until KEN slows down and pulls up to the playground of an elementary school.
 
+- [ ] Elanor doesn't think he's ready for the presentation. You can never be over prepared.
+
+# C. Ken meets Diane
+
+## Shared office pantry - morning
+
+KEN paces back and forth reciting his presentation. He keeps messing up and having to start over again.
+
+KEN
+Dammit!
+*drops to the ground and starts doing push ups.*
+
+Enters DIANE, eyes puffy and almost in a daze, she's holding thermomug. She is wearing a knee length tight skirt, kitten heels, and a short blazer. Her next step lands on KEN's hands. He yelps out in pain, as DIANE loses balance and falls. The coffee spills on Ken's white shirt. Diane lands on top of him, and the two stare at eachother for a moment. Processing what had just happened.
+
+KEN
+Fuck! Watch where you're going.
+
+DIANE
+Omg! My! I'm so sorry.
+Hey, what were you doing on the floor.
+
+KEN
+Push ups. It helps with nerves. I have big meeting today.
+And now I've got to go home and change, I barely have enough time to prepare this morning.
+
+DIANE
+What if I lend you a shirt? I have one that looks like it could fit you.
+
+KEN
+Alright, let's see it.
+
+KEN follows DIANE to her office.
+
+KEN
+Wow, private office! Helix Medicine must be doing well.
+*He looks at her plate on the desk, Director of Operations.*
+
+DIANE searches through a wardrobe and pulls out a crisp white shirt.
+
+KEN *takes it and checks the size.*
+Looks alright.
+*He pulls his current shirt over his head, surprising Diane*
+
+DIANE *blushes and turn away.*
+
+KEN *walks up to Diane and speaks closely to her eyes.*
+It fits, thanks.
+
+DIANE *jumps and turns to face him. She realizes how close their faces are to each other.*
+Hah ha, glad.
+
+KEN
+Your husband won't mind?
+
+DIANE
+Oh no, I don't have a husband. I should, but I don't. It belonged to an ex.
+*pauses a moment*
+You know, I think you are well prepared.
+
+KEN
+What makes you think that?
+
+DIANE
+It's not about remember what to say when. It's about being able to answer questions on the fly. And you seem like a guy who does his research.
+
+KEN *lights up with a smile*
+Thanks. 
+
+DIANE
+Good luck. You'll ace it!
+
+KEN leaves the room.
+
 # N. Elanor smells Ken's shirt
 
 ## Int. bedroom - night

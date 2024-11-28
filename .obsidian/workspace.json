@@ -21,6 +21,20 @@
               "icon": "lucide-file",
               "title": "draft3-outline"
             }
+          },
+          {
+            "id": "6c7425fac1f3f3fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "femmenoir/draft2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "draft2"
+            }
           }
         ]
       },
@@ -175,8 +189,8 @@
   "lastOpenFiles": [
     "femmenoir/Draft 3.md",
     "femmenoir/draft3-outline.md",
-    "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
     "femmenoir/draft2.md",
+    "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
     "femmenoir/draft1.md",
     "femmenoir/draft2-2_scene-elanor-comesout.pdf",
     "femmenoir/Characters.md",
