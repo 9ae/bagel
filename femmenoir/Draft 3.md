@@ -469,3 +469,63 @@ You don't mean....
 DIANE *whispers*
 Only if you want
 
+# G. Elanor daydreams about Ken & Diane
+
+## Elanor & Ken's bedroom - night
+
+KEN
+Where the hell were you?
+
+ELANOR
+I just went to my parents, they had a fight again.
+
+KEN
+Everything alright?
+
+ELANOR
+Just the usual, I made them patch things up.
+
+KEN
+Oh, ok.
+*Walks out the room*
+
+ELANOR (VO)
+ I couldn't help to wonder what Diane saw in him.
+ 
+Shadow Elanor summons a Shadow Ken from the ground, they dance intimately. 
+
+ELANOR (VO)
+What he did with her.
+
+Elanor close her eyes.
+
+The shadows are silhouettes  of the the characters against a the backdrop of Elanor’s bedroom.
+
+Shadow Ken pulls Shadow Elanor close, their shadows combine. 
+
+When they part it is Shadow Diane and Shadow Ken that separate, with Shadow Elanor is in the middle.
+
+ELANOR (VO)
+How he’ll touch her
+
+Elanor’s runs her hands down her body
+
+Shadow Diane and Shadow Ken dance around Shadow Elanor.
+
+ELANOR (VO)
+ I let my mind play games with me. Always imagining the worst!
+
+Shadow Diane comes forward as Shadow Ken moves towards the background.
+
+ELANOR (VO)
+The way she sounds
+
+Shadow Elanor reaches out to Shadow Diane. Shadow Diane pulls her into a dance.
+
+Shadow Ken fades backwards and disappears.
+
+ELANOR (VO)
+What her skin feels like
+
+Shadow Elanor and Shadow Diane dance an epic tango.
+
