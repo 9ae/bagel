@@ -438,3 +438,34 @@ It doesn't matter if you do, I'm still trapped in his marriage.
 Sometimes I wish some horrible accident will fall upon him.
 Better a widow than divorcee.
 
+# J. Plot Murder
+
+## Int. Diane's living room - night
+
+DIANE
+How would you do it?
+
+ELANOR
+Maybe caught in an illegal drag race. Those seem to be happening on our streets these days.
+
+DIANE *rolls her eyes*
+Argh, the noise.
+
+ELANOR *giggles in agreement*
+Maybe slip something into his lunch one day.
+
+DIANE
+He's allergic to anything, is he?
+
+ELANOR
+No, that man has an iron stomache.
+
+DIANE
+Lunch will involve too many witnesses. You know, I work for pharmatheutical company.
+
+ELANOR *looks up*
+You don't mean....
+
+DIANE *whispers*
+Only if you want
+

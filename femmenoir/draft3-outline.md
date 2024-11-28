@@ -58,7 +58,7 @@ Act 3
 	ELANOR wonders what is going on with Ken. She finds Diane's address.
 - [ ] ~~[[#H. Ken and Diane ends it]]  Phone ringing scene~~
 - [x] [[#I. Elanor returns Diane's stuff]]
-- [ ] [[#J. Plot murder w/ poison]]
+- [x] [[#J. Plot murder w/ poison]]
 - [ ] [[#G. Elanor daydreams about Ken & Diane]]
 - [ ] [[#K. Meet chemist at opera house]]
 - [ ] Ken has date w/ Diane and she fails

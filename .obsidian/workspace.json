@@ -6,7 +6,7 @@
       {
         "id": "8a597822cf9def9e",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 35.45168067226891,
         "children": [
           {
             "id": "a01296b1a2602686",
@@ -21,19 +21,14 @@
               "icon": "lucide-file",
               "title": "draft3-outline"
             }
-          },
-          {
-            "id": "5afb081a8e51062a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "femmenoir/FemmeNoir-snippet-draft2_2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "FemmeNoir-snippet-draft2_2"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "456356ff2a2d2bbe",
+        "type": "tabs",
+        "dimension": 64.5483193277311,
+        "children": [
           {
             "id": "794c8c33dc162937",
             "type": "leaf",
@@ -164,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +174,9 @@
   "active": "a01296b1a2602686",
   "lastOpenFiles": [
     "femmenoir/Draft 3.md",
+    "femmenoir/draft3-outline.md",
     "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
     "femmenoir/draft2.md",
-    "femmenoir/draft3-outline.md",
     "femmenoir/draft1.md",
     "femmenoir/draft2-2_scene-elanor-comesout.pdf",
     "femmenoir/Characters.md",
