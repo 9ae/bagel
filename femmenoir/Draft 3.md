@@ -232,6 +232,69 @@ You'll never forgive me, will you?
 
 ELANOR looks stern standing there. She doesn't say anything putting the rest of the laundry in the hamper and walks out of the room.
 
+# D. Ken returns the shirt
+
+## Int. Diane's office - afternoon
+
+DIANE is on her phone. Her wallpaper is a fanart of Cersei and Brienne.
+A notification of a dating app appears. She opens the app.
+
+There's a new message from a guy who starts with the most generic. "Hey babe."
+DIANE rolls her eyes and deletes the thread. She returns to the messages and opens up a thread with a girl she's been chat with. The latest message, is one Diane sent 2 days ago asking if she wanted to have dinner Thursday. Her eyes sink in sad disappointment. 
+
+## Int. Outside Diane's office door - afternoon
+KEN is holding the shirt Diane lent him. He checks his reflection against a black glass pane. He adjusts his collar, and fixes his bangs. He takes a step back to see him full. Reaches to knock on the door, but holds. He takes off the ring in his finger and puts it in his pocket. And then knock the door.
+
+DIANE
+Come in!
+
+As Ken opens the door, light floods into her office. Which is dark except the light from her monitor. 
+
+KEN
+Here, I wanted to give this back to you.
+
+DIANE
+How did the investor meeting go?
+
+KEN
+Great! They are going to increase funding. Thanks, I would have fumbled without your encouragement.
+
+DIANE
+It's nothing. I was the one who got your shirt dirty. 
+
+KEN
+Still, I owe you one. Maybe dinner sometime?
+
+DIANE
+There's no need.
+
+KEN *steps closer and touches the back of her hand*
+Give me a chance to see you out of your work clothes?
+
+DIANE
+Oh, other than these I'm just in sportswear.
+
+KEN
+We'll play a pick up game afterwards then? Nothing fancy.
+
+DIANE *blushes*
+I mean I can, put on a dress if you want.
+
+KEN
+Where whatever. How's this Thursday?
+
+DIANE
+This Thursday.... *thinks back to her messages, she's waiting to here from the girl*
+You know what? This Thursday is perfect.
+
+KEN *stands up*
+Great! I'l swing by your office afterwork?
+
+DIANE *nods*
+
+KEN *walks out of the door slowly.*
+
+DIANE opens the app and messages the woman she's waiting on to cancel on her pending Thursday date.
 # Q. Diane finds out Ken's married
 
 ## Int. Diane's apartment - Kitchen - morning
