@@ -45,7 +45,7 @@ Act 3
 - [x]  [[#D. Ken asks Diane out]]
 	1. *Why does Diane settle for this?*
 - [ ] O. vo montage scenes: buddying romance that show the passage of time. Ken insist they communicate via letters (instead of giving her his number)
-- [ ] [[#R. Elanor teaching at church choir]]
+- [x] [[#R. Elanor teaching at church choir]]
 	1. Violin class
 	2. Group class in church
 	3. Church choir

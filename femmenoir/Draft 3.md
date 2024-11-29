@@ -295,6 +295,60 @@ DIANE *nods*
 KEN *walks out of the door slowly.*
 
 DIANE opens the app and messages the woman she's waiting on to cancel on her pending Thursday date.
+
+# R. Elanor at church
+
+Reference:
+Bass - Adam
+Cello - Danny
+Viola - Sebastian
+Violin - Esther
+
+## Int. Church - weekend - afternoon
+
+A string quartet plays, ELANOR is conducting middle school students. Their song comes to an end.
+
+ELANOR
+Danny you came in too early on your part. Don't start on my cue.
+Now let us all run through it one more time.
+
+STUDENTS *groan in protest*
+
+DANNY *whispers something to Esther's ears and she giggles*
+
+ELANOR
+Care to share the joke?
+
+ESTHER
+Did your sister run off with a brown boy? Is that why she's no longer around?
+
+ELANOR
+She moved out of state for work.
+
+DANNY
+Oh really, my mom saw her at H-Mart last week.
+
+SEBASTIAN
+Doppleganger?
+
+ELANOR
+Let's just get back to the song. The spring show is in a week.
+*she raises her stick and motions Sebastian to start*
+## Ext. church parking lot - afternoon
+
+ELANOR (VO) *walks to her car*
+An unpaid job, that I never signed up for. 
+
+ELANOR (VO) *drives home in silence.* 
+But I guess that's what happens when your family's been going to the same church for years. Everyone knows you, and expects you to be involved.
+Every step you take, you know they are watching.
+And they will most definitely talk.
+
+She finds a parking spot near her house. She opens the door, to find the house empty. She starts to sing a Disney song.
+
+ELANOR (VO) 
+Sometimes you just want to be yourself, and it’s hard with anyone else around.
+
 # Q. Diane finds out Ken's married
 
 ## Int. Diane's apartment - Kitchen - morning
