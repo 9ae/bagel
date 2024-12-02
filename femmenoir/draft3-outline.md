@@ -83,7 +83,13 @@ Goes to second source of light
 Their clothes are blood stained.  
 
 <u>What happens</u>
-Elanor & Diane are digging. No dialog. 
+Elanor & Diane are digging. 
+
+> Remember ladies, when burying a body cover it with endangered plants, so it’s illegal to dig up
+
+https://www.bobvila.com/articles/endangered-plants/
+
+Diane has  **Rose Pogonia (****_Pogonia ophioglossoides_****)** in her apartment
 
 <u>Exit</u>
 Zooms into Elanor who touches the contrabass case.
