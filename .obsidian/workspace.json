@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c17aa2119f32b8e",
+        "id": "3dafbf385752eaa9",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6b8f0809135e2f",
+            "id": "7a3ce462815581ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "femmenoir/_todo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_todo"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.50271224975586
+    "width": 315.50271224975586
   },
   "right": {
     "id": "07b321d68a5dae8d",
@@ -144,37 +148,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d49aac570de3d20",
+  "active": "7a3ce462815581ba",
   "lastOpenFiles": [
+    "femmenoir/Outline.canvas",
+    "femmenoir/_todo.md",
+    "femmenoir/v2",
+    "femmenoir/v1",
+    "femmenoir/v2/draft2-2_scene-elanor-comesout.pdf",
+    "femmenoir/v3/draft.md",
+    "femmenoir/v3",
+    "femmenoir/v3/outline.md",
     "Journal/12-08 Story Dev workshop.md",
     "Templates/daily.md",
     "Notes/Untitled.md",
     "Notes",
-    "femmenoir/draft3-outline.md",
-    "femmenoir/Draft 3.md",
-    "femmenoir/draft2.md",
-    "femmenoir/FemmeNoir-snippet-draft2_2.pdf",
-    "femmenoir/draft1.md",
-    "femmenoir/draft2-2_scene-elanor-comesout.pdf",
+    "femmenoir/v2/draft2.md",
+    "femmenoir/v2/FemmeNoir-snippet-draft2_2.pdf",
+    "femmenoir/v1/draft1.md",
     "femmenoir/Characters.md",
     "[[draft3-outline.md",
-    "femmenoir/_todo.md",
     "Templates/Project/_brainstorm.canvas",
     "Templates/Project/_index.md",
     "Templates/Project/_todo.md",
     "Templates/Script outline.md",
     "femmenoir/Brainstorm.canvas",
-    "femmenoir/Outline.canvas",
     "Ink/Drawing/2024.8.21 - 7.41am.drawing",
     "Ink/Drawing",
     "Ink",
     "femmenoir/Backstory.canvas",
     "Templates/Project",
-    "Templates",
-    "Journal",
     "Welcome.md",
     "femmenoir/Draft 1 ea224d12da9343bda6b2a69556b9d934.md",
-    "femmenoir/draft1.zip",
     "femmenoir/storyboards/alley_pond_park/Artboard 9.png",
     "femmenoir/storyboards/alley_pond_park/Artboard 8.png",
     "femmenoir/storyboards/alley_pond_park/Artboard 7.png",

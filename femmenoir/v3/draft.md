@@ -719,3 +719,25 @@ What her skin feels like
 
 Shadow Elanor and Shadow Diane dance an epic tango.
 
+# Montague of slow kill
+
+## Ken's co-working office
+
+Shot of DIANE whisking matching round and round. She drops a light blue liquid from a tincture
+
+DIANE
+Maybe him insisting we don't exchange contracts should be a sign. Let's leave eachother notes? Who am I kidding that man has his eyes glued to his phone?
+
+DIANE puts down a. cup of matcha, with a small note continues to walk away towards her office. Ken opens the note and smiles. He looks like a man who's the top of the world.
+
+DIANE
+I was a fool to believe it's because you thought it was romantic.
+
+DIANE closes the office door
+
+DIANE
+I wanted to believe in the fate so much that I ignored all the signs.
+
+## Elanor's & Ken's house
+
+After dinner, Elanor thanks Ken and clears the dining table.
