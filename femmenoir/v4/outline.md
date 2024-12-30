@@ -19,4 +19,3 @@ What are scenes we can use?
 It's through Elanor, Diane finds out. She feels foolish
 In there moment of rage, they plot together.
 
-

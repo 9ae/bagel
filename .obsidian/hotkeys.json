@@ -22,5 +22,13 @@
       ],
       "key": "T"
     }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "O"
+    }
   ]
 }
