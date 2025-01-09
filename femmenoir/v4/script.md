@@ -85,8 +85,6 @@ He looks at her plate on the desk, “Director of Research”. DIANE searches th
 KEN
 Perfect, thanks.
 DIANE jumps and turns to face him. She realizes how close their faces are to each other. She smiles awkwardly.
-
-
 DIANE
 You’ll ace it!
 KEN
@@ -96,13 +94,12 @@ You’re wearing my lucky shirt.
 Fades to next flashback scene.
 ELANOR (VO)
 Oh so that explains the shirt.
+
 INT. ELANOR & KEN’S BEDROOM - NIGHT
 ELANOR walks into the bedroom and sees a pile of clothes on the floor. She sighs as she picks them up. She pauses at the shirt Diane gave him. She holds it up to her nose.
 ELANOR
 Citrus.
 The camera adjust focus on her night stand, with a collection of floral perfumes. ELANOR narrows her eyes and grabs the shirt tighter. Lost in her own world, she doesn’t notice Ken enter the room.
-
-
 KEN
 Babe, have you seen my…
 ELANOR
@@ -116,7 +113,6 @@ Coffee spilt, and someone at my workspace let me borrow a spare.
 ELANOR
 How convenient.
 KEN grabs the shirt from ELANOR.
-
 
 KEN
 You're paranoid
@@ -232,7 +228,7 @@ EXT. WOODS - AT DUSK
 ELANOR
 Didn’t know park have poisonous flowers. My school has field trips here all the time.
 DIANE
-They aren’t poisonous, inherently. The nectar of the _ is only deadly combined with the pollen of _. The toxin takes about a week to build up to detrimental levels.
+They aren’t poisonous, inherently. The nectar of the (flower 1) is only deadly combined with the pollen of (flower 1). The toxin takes about a week to build up to detrimental levels.
 ELANOR
 I’ve been waiting seven years, what’s another few days.
 DIANE
@@ -280,3 +276,14 @@ ELANOR reach for DIANE’S hand, and DIANE takes it a gives it a squeeze.
 DIANE
 Always.
 ELANOR leans her head on DIANE’s shoulder. We pan to the sky that is lightening up, and we fade to white.
+
+---
+In the forest, stay too long night falls and it's harder to find their way out.
+They get lost, and google map doesn't seem to be working.
+Elanor thinks they should stay put, she can call her sister to get them help.
+Diane saids their are bear sightings in the forest. We hear a growl, let's get going.
+As they are walking Elanor hurts her ankle. Elanor tells her to go on a head, Diane refuses to leave.  Diane rips her very expensive piece of clothing to wrap Elanor's ankle.
+They eventually make to the pond with Diane's knowledge about plants and Elanor's knowledge about these woods.
+Elanor recognizes that she could have died, and she wants start living her life the way she wants to now.
+
+Maybe Diane knew about the affair, but she truly believe that this is her chance at love. 
